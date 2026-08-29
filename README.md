@@ -1,3 +1,84 @@
-# cn_BeingADIK
+# cn_BeingADIK — Being a DIK 简体中文汉化补丁
 
-Being a DIK 汉化补丁
+Steam 正版《Being a DIK: Seasons 1 and 2》（Ren'Py 7.4.10，游戏版本 v0.8.3）的
+社区简体中文汉化补丁。基于引擎原生翻译框架（`game/tl/schinese/`），
+**不修改、不覆盖任何游戏原文件**。
+
+状态：**翻译骨架已全部生成，字体与框架已实机验证通过，剩下的是翻译工作本身。**
+
+## 使用方法
+
+把本仓库的 `game` 目录复制到游戏安装目录下，与已有的 `game` 文件夹合并
+（即最终路径为 `<游戏目录>/game/tl/schinese/`）即可。启动游戏后：
+
+- 首次启动自动切换为中文，此后尊重玩家的手动选择（语言偏好由引擎记住）；
+- 游戏内右下角有 **中/EN** 角标可随时切换，切回英文时字体一并还原；
+- 卸载：直接删除 `game/tl/schinese/` 文件夹即可，存档与成就不受影响。
+
+## 目录结构
+
+```
+game/tl/schinese/
+├── 00_cn_patch.rpy      # 补丁框架：字体覆盖、自动语言切换、中/EN 角标
+├── common.rpy           # Ren'Py 引擎内置界面文本骨架
+├── screens.rpy          # 游戏界面文本骨架
+├── options.rpy          # 游戏选项相关文本骨架
+├── script.rpy           # 主线对话骨架
+├── header.rpy
+├── update2/3/4.rpy      # 各章节重制内容对话骨架
+├── scripts/             # 分集、自由探索、手机系统、小游戏等对话骨架
+└── fonts/               # 思源黑体 CN（Regular + Bold）
+```
+
+## 翻译工作量
+
+由游戏自带的 `translate` 命令生成，统计如下：
+
+| 类型 | 数量 |
+|---|---|
+| 对话翻译块（`translate schinese <id>`） | 16,669 |
+| 界面字符串（`old` / `new` 对） | 1,156 |
+| **合计翻译单元** | **约 17,825** |
+
+骨架文件使用英文原文填充 `new` 字段，未翻译处会正常显示英文，不会报错或空白。
+
+## 生效原理（含本作特有的一个坑）
+
+1. Ren'Py 启动时按 `_preferences.language` 调用 `renpy.change_language("schinese")`；
+2. **本作启用了样式语句延迟应用**：游戏自定义样式直到首次 `change_language`
+   才真正创建（晚于引擎的样式备份）。因此字体覆盖**不能**写在常规的
+   `translate schinese python` 块里——时机过早且随后被样式语句覆盖；
+3. 补丁改为挂接 `config.change_language_callbacks`：该回调在延迟样式应用完成之后、
+   最终样式重建之前执行，时机恰好。每次切换收尾时还刷新引擎样式备份，避免第二次
+   切换语言时 `restore()` 把延迟创建的样式全部剪掉（本作原生存在的界面丢样式隐患，
+   补丁顺带修复）；
+4. 字体覆盖三层：标准 `gui.*` 字体变量 → screens.rpy 中硬编码字体的自定义样式
+   （逐个替换，并记录原始字体以便切回英文时还原）→ `style.default` 根样式兜底。
+
+## 翻译时的注意事项
+
+- Ren'Py 的变量插值与文本标签必须原样保留，例如 `[mc]`、`{w}`、`{color=#ff7ffa}`、
+  `{size=40}`、`{font=candara.ttf}` 等；
+- 人名在 `characters.rpy` 中定义（如 `mc`、`js`、`sa`），译名需全项目保持一致；
+- 手机系统（短信、Swyper、Rooster）文本位于 `scripts/phone/` 下，同样走 tl 框架；
+- 主菜单底部大按钮（NEW GAME 等）是**图片按钮**，英文烤在 PNG 里，文本补丁不覆盖，
+  需要单独做图像汉化。
+
+## 路线图
+
+- [x] 可行性评估（引擎确认、文本量实测、机制核实）
+- [x] 补丁框架：思源黑体接入、语言切换、样式覆盖（实机验证通过）
+- [x] 生成全部翻译骨架（约 1.78 万条翻译单元）
+- [ ] 对话文本翻译（建议分集推进：EP1 → EP4）
+- [ ] 界面文本翻译扩展
+- [ ] 手机系统（phone/）样式与文本适配
+- [ ] 图片内嵌文本处理（主菜单按钮、GUI 图等）
+- [ ] Season 2 DLC（EP5-8）适配（需先在 Steam 安装该 DLC）
+- [ ] 打包发布
+
+## 授权说明
+
+- 补丁代码随本项目自由分发；字体为
+  [思源黑体（Source Han Sans）](https://github.com/adobe-fonts/source-han-sans)，
+  SIL Open Font License 1.1。
+- 请支持正版：[Steam: Being a DIK - Season 1](https://store.steampowered.com/app/1126320/)。
