@@ -3160,7 +3160,7 @@ translate schinese ep3_envy_bj_label_519ca7fc:
 translate schinese ep3_envy_bj_label_f4a3a8dd:
 
     # en "*{i}Gags and chokes{i}*"
-    en "*{i}干呕呛住{/i}*"
+    en "*{i}干呕呛住{i}*"
 
 # game/scripts/freeroam/episode3/ep3_freeroam_stripclub.rpy:1833
 translate schinese ep3_envy_bj_label_2703dcec:

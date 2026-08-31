@@ -2020,7 +2020,7 @@ translate schinese ep4_melanie_lewd_label2_829d1da3:
 translate schinese ep4_melanie_lewd_label2_864ff6d1:
 
     # ml "Haha! Are you getting off to us?"
-    ml "哈哈！你被我们撩到了？"
+    ml "哈哈！你是不是看着我们硬了？"
 
 # game/scripts/episode4/ep4_sage_route.rpy:681
 translate schinese ep4_melanie_lewd_label2_047ef44d:
@@ -2488,7 +2488,7 @@ translate schinese ep4_movienight_label2_e0874e65:
 translate schinese ep4_movienight_label2_fbb3d186:
 
     # qu "I'm sure you recognize some of those losers on campus."
-    qu "我敢说，校园里那些Losers你都认得。"
+    qu "我敢说，校园里那些废物你都认得。"
 
 # game/scripts/episode4/ep4_sage_route.rpy:877
 translate schinese ep4_movienight_label2_8d8ba7ed:

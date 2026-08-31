@@ -5348,9 +5348,8 @@ translate schinese ep1_josy_lewd_73ef3b9c:
 
 # game/script.rpy:2086
 translate schinese ep1_josy_lewd_526ec8fa:
-
     # de "You almost gave it to that jock, huh?"
-    de "你刚才差点跟那个体育生动手，是吧？"
+    de "你差点就献给那个体育生了，是吧？"
 
 # game/script.rpy:2088
 translate schinese ep1_josy_lewd_249a3341:
@@ -6056,9 +6055,8 @@ translate schinese ep1_after_english_test_2cfe1ee6_1:
 
 # game/script.rpy:2396
 translate schinese ep1_after_english_test_ec89ccd8:
-
     # mc "Did I charm your panties off?"
-    mc "我把你的内裤迷掉了？"
+    mc "我是不是把你迷得连内裤都脱了？"
 
 # game/script.rpy:2398
 translate schinese ep1_after_english_test_9af91248:

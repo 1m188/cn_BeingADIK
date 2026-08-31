@@ -292,19 +292,19 @@ translate schinese previousEp3Label_2b677ab1:
 translate schinese previousEp3Label_3fc94516:
 
     # qu "Are you fucking perv boy?"
-    qu "你在跟变态男做吗？"
+    qu "你这死变态小子？"
 
 # game/update3.rpy:141
 translate schinese previousEp3Label_9a06fbc4:
 
     # ja "If there's ever an odd couple in the class you and I could pair up and have a good..."
-    ja "要是班上凑不成对，你我就可以搭档，好好一来……"
+    ja "要是班上有谁落了单，你我就凑一对，好好来个……"
 
 # game/update3.rpy:143
 translate schinese previousEp3Label_ab79ceb6:
 
     # ja "...back and forth."
-    ja "……一往。"
+    ja "……你来我往。"
 
 # game/update3.rpy:146
 translate schinese previousEp3Label_e831a6ca:
@@ -1048,7 +1048,7 @@ translate schinese ep3_hell_week_presentation_label_f520876a:
 translate schinese ep3_hell_week_presentation_label_00ae353e:
 
     # tm "Being drunk is a great way to muster up courage and egg the preps!"
-    tm "喝醉是鼓起勇气去惹预科生绝妙的办法！"
+    tm "喝醉可是鼓起勇气去招惹预科生的绝佳办法！"
 
 # game/update3.rpy:389
 translate schinese ep3_hell_week_presentation_label_a8148b18:
@@ -1216,7 +1216,7 @@ translate schinese ep3_hell_week_presentation_label_e2ff99c3:
 translate schinese ep3_hell_week_presentation_label_8ed276e8:
 
     # de "Aw. I wanted to have a DIK head, too."
-    de "噢。我也想当 DIK 头。"
+    de "噢。我也想戴那颗 DIK 头啊。"
 
 # game/update3.rpy:450
 translate schinese ep3_hell_week_presentation_label_2053f066:
@@ -1654,13 +1654,13 @@ translate schinese ep3_hot_maya_label_69beaca9:
 translate schinese ep3_hot_maya_label_967a4ef4:
 
     # ml "Seriously? Applause for making that moron maggot cum?"
-    ml "严重地？为那个白痴蛆精而鼓掌？"
+    ml "认真的吗？让那个白痴菜鸟射出来也值得鼓掌？"
 
 # game/update3.rpy:681
 translate schinese ep3_hot_maya_label_4e6a7f9e:
 
     # ml "He couldn't even hold his alcohol, much less his cum."
-    ml "他连酒都hold不住，更别说精了。"
+    ml "他连酒都扛不住，更别提忍住不射了。"
 
 # game/update3.rpy:682
 translate schinese ep3_hot_maya_label_a5c6cda6:
@@ -1684,7 +1684,7 @@ translate schinese ep3_hot_maya_label_6c5e054f:
 translate schinese ep3_hot_maya_label_967a4ef4_1:
 
     # ml "Seriously? Applause for making that moron maggot cum?"
-    ml "严重地？为那个白痴蛆精而鼓掌？"
+    ml "认真的吗？让那个白痴菜鸟射出来也值得鼓掌？"
 
 # game/update3.rpy:690
 translate schinese ep3_hot_maya_label_38cc4090:
@@ -2104,7 +2104,7 @@ translate schinese ep3_hot_week_loop_label_f0cfaa26:
 translate schinese ep3_hot_week_loop_label_2f09e403:
 
     # he "Really? You couldn't find a sluttier bikini?"
-    he "真的吗？您找不到更性感的比基尼吗？"
+    he "真的吗？你找不到更性感的比基尼吗？"
 
 # game/update3.rpy:818
 translate schinese ep3_hot_week_loop_label_5eb5e5d6:
@@ -2968,7 +2968,7 @@ translate schinese ep3_jill_room_label_449b734a:
 translate schinese ep3_jill_room_label_17983c40:
 
     # mc "Just let me sit for a few minutes, then I'm off on my way."
-    mc "让我坐几分钟，然后我就上路了。"
+    mc "让我坐几分钟，然后我就走了。"
 
 # game/update3.rpy:1170
 translate schinese ep3_jill_room_label_e5ef05e6:
@@ -5578,7 +5578,7 @@ translate schinese ep3_maya_morning_label_c2b05325:
 translate schinese ep3_maya_morning_label_5ce645bc:
 
     # mc "Yeah, I don't know why..."
-    mc "是的，我不知道为什么..."
+    mc "是的，我不知道为什么……"
 
 # game/update3.rpy:2118
 translate schinese ep3_maya_morning_label_74b2329a:
@@ -6718,7 +6718,7 @@ translate schinese ep3_maya_grass_label_4e0bd028:
 translate schinese ep3_maya_grass_label_43eaf122:
 
     # my "To have a movie theater...just for myself..."
-    my "拥有一家电影院...只属于我自己..."
+    my "拥有一家电影院……只属于我自己……"
 
 # game/update3.rpy:2481
 translate schinese ep3_maya_grass_label_5e760cd6:
@@ -6814,7 +6814,7 @@ translate schinese ep3_derek_confront_label_24a36c72:
 translate schinese ep3_derek_confront_label_725da275:
 
     # de "Don't you say sex outdoors. Please...not sex outdoors."
-    de "你别说在户外做爱。请...不要在户外做爱。"
+    de "你别说在户外做爱。请……不要在户外做爱。"
 
 # game/update3.rpy:2544
 translate schinese ep3_derek_confront_label_0a01b1e4:
@@ -6922,13 +6922,13 @@ translate schinese ep3_derek_confront_label_606e2d02:
 translate schinese ep3_derek_confront_label_76351d35:
 
     # de "Hey. Look..."
-    de "嘿。看..."
+    de "嘿。看……"
 
 # game/update3.rpy:2596
 translate schinese ep3_derek_confront_label_2debb0e0:
 
     # de "I'm not the one to cockblock a maggot brother..."
-    de "我不是那个能堵死蛆兄弟的人……"
+    de "我可不是会坏自己兄弟好事的人……"
 
 # game/update3.rpy:2597
 translate schinese ep3_derek_confront_label_b17d4f5f:
@@ -6940,7 +6940,7 @@ translate schinese ep3_derek_confront_label_b17d4f5f:
 translate schinese ep3_derek_confront_label_a8677b24:
 
     # mc "I already told you that I like her..."
-    mc "我已经告诉过你我喜欢她了..."
+    mc "我已经告诉过你我喜欢她了……"
 
 # game/update3.rpy:2608
 translate schinese ep3_derek_confront_label_0b0ba5e7:
@@ -6970,7 +6970,7 @@ translate schinese ep3_derek_confront_label_0d7d49af:
 translate schinese ep3_derek_confront_label_4ee6e2bf:
 
     # mc "Well... I don't know."
-    mc "嗯...我不知道。"
+    mc "嗯……我不知道。"
 
 # game/update3.rpy:2626
 translate schinese ep3_derek_confront_label_0853fd62:
@@ -6994,7 +6994,7 @@ translate schinese ep3_derek_confront_label_a6e01075:
 translate schinese ep3_derek_confront_label_6dc56114:
 
     # de "Let's go cross some shit off that pledge board, before I slap you."
-    de "在我打你之前，我们先把誓言板上的一些狗屎划掉吧。"
+    de "在我扇你之前，先把预备任务板上的几项狗屁划掉吧。"
 
 # game/update3.rpy:2634
 translate schinese ep3_derek_confront_label_75aa5608:
@@ -7066,7 +7066,7 @@ translate schinese ep3_derek_confront_label_00615406:
 translate schinese ep3_derek_confront_label_115a745a:
 
     # mc "Why would I?"
-    mc "怎么会 ?"
+    mc "怎么会？"
 
 # game/update3.rpy:2664
 translate schinese ep3_derek_confront_label_30235164:
@@ -7078,7 +7078,7 @@ translate schinese ep3_derek_confront_label_30235164:
 translate schinese ep3_derek_confront_label_6398d60a:
 
     # de "And by the way..."
-    de "顺便说一句..."
+    de "顺便说一句……"
 
 # game/update3.rpy:2667
 translate schinese ep3_derek_confront_label_f38164df:
@@ -7120,13 +7120,13 @@ translate schinese ep3_derek_confront_label_11455b53:
 translate schinese ep3_ggc_label_b74244f7:
 
     # de "The list is not impossible! We can do it!"
-    de "列出清单并非不可能！我们能做到！"
+    de "这清单并非不可能完成！我们做得到！"
 
 # game/update3.rpy:2688
 translate schinese ep3_ggc_label_d9da10e5:
 
     # mc "But fucking a teacher..."
-    mc "但他妈的老师..."
+    mc "但他妈的老师……"
 
 # game/update3.rpy:2689
 translate schinese ep3_ggc_label_77eb6622:
@@ -7156,7 +7156,7 @@ translate schinese ep3_ggc_label_afa551c2:
 translate schinese ep3_ggc_label_2d42ed4e:
 
     # mc "This morning, she flashed me!"
-    mc "今天早上，她给我闪了光！"
+    mc "今天早上，她对我露了！"
 
 # game/update3.rpy:2696
 translate schinese ep3_ggc_label_fd275544:
@@ -7198,7 +7198,7 @@ translate schinese ep3_ggc_label_66523e0d:
 translate schinese ep3_ggc_label_cd8b753d:
 
     # de "And...then...Jade showed you her pussy?"
-    de "然后...然后...Jade向你展示了她的阴户？"
+    de "然后……然后……Jade向你展示了她的阴户？"
 
 # game/update3.rpy:2708
 translate schinese ep3_ggc_label_bf8c299a:
@@ -7210,7 +7210,7 @@ translate schinese ep3_ggc_label_bf8c299a:
 translate schinese ep3_ggc_label_40085abb:
 
     # de "Just...get to the pussy part."
-    de "只是...进入阴户部分。"
+    de "只是……进入阴户部分。"
 
 # game/update3.rpy:2712
 translate schinese ep3_ggc_label_d563575d:
@@ -7288,7 +7288,7 @@ translate schinese ep3_ggc_label_96dc60bf:
 translate schinese ep3_ggc_label_e2049e83:
 
     # mc "You didn't hear that Chad's not the tri-alpha president anymore?"
-    mc "你没听说乍得不再是三阿尔法总统了？"
+    mc "你没听说 Chad 不再是三甲兄弟会的主席了吗？"
 
 # game/update3.rpy:2731
 translate schinese ep3_ggc_label_d96add29:
@@ -7306,7 +7306,7 @@ translate schinese ep3_ggc_label_2b35b6fe:
 translate schinese ep3_ggc_label_dd058e48:
 
     # mc "I don't remember. It was a pretty quick flash..."
-    mc "我不记得了。这是一个相当快的闪光..."
+    mc "我不记得了。当时露得挺快的……"
 
 # game/update3.rpy:2734
 translate schinese ep3_ggc_label_070a7288:
@@ -7330,7 +7330,7 @@ translate schinese ep3_ggc_label_91905ede:
 translate schinese ep3_ggc_label_bef3cf12:
 
     # mc "Come on... Stop it."
-    mc "来吧...停下来。"
+    mc "来吧……停下来。"
 
 # game/update3.rpy:2743
 translate schinese ep3_ggc_label_83d8b37b:
@@ -7342,7 +7342,7 @@ translate schinese ep3_ggc_label_83d8b37b:
 translate schinese ep3_ggc_label_a34d0208:
 
     # de "She showed you her pussy..."
-    de "她向你展示了她的阴部..."
+    de "她向你展示了她的阴部……"
 
 # game/update3.rpy:2745
 translate schinese ep3_ggc_label_9a857b72:
@@ -7354,7 +7354,7 @@ translate schinese ep3_ggc_label_9a857b72:
 translate schinese ep3_ggc_label_b695a164:
 
     # mc "I don't have a pussy."
-    mc "我没有猫。"
+    mc "我没有屄。"
 
 # game/update3.rpy:2750
 translate schinese ep3_ggc_label_314d6311:
@@ -7372,7 +7372,7 @@ translate schinese ep3_ggc_label_82aebf9d:
 translate schinese ep3_ggc_label_37b48c23:
 
     # de "You know...through the zipper or something."
-    de "你知道...通过拉链之类的。"
+    de "你知道……通过拉链之类的。"
 
 # game/update3.rpy:2756
 translate schinese ep3_ggc_label_e002ed49:
@@ -7414,7 +7414,7 @@ translate schinese ep3_ggc_label_5ffb3849:
 translate schinese ep3_ggc_label_467a1193:
 
     # mc "These aren't balaclavas..."
-    mc "这些不是巴拉克拉法帽..."
+    mc "这些不是巴拉克拉法帽……"
 
 # game/update3.rpy:2767
 translate schinese ep3_ggc_label_def44608:
@@ -7438,7 +7438,7 @@ translate schinese ep3_ggc_label_0552c6c9:
 translate schinese ep3_ggc_label_63c38167:
 
     # de "Come and get some!"
-    de "快来拿一些吧！"
+    de "有种来抓啊！"
 
 # game/update3.rpy:2776
 translate schinese ep3_ggc_label_4b1ce032:
@@ -7450,7 +7450,7 @@ translate schinese ep3_ggc_label_4b1ce032:
 translate schinese ep3_ggc_label_b2b53e24:
 
     # sec "Oh, Lord, not this year, too! Have mercy!"
-    sec "哦，主啊，今年也不会！怜悯吧！"
+    sec "哦，主啊，今年又来！饶了我吧！"
 
 # game/update3.rpy:2779
 translate schinese ep3_ggc_label_957e49a8:
@@ -7510,7 +7510,7 @@ translate schinese ep3_ggc_label_58f8c593:
 translate schinese ep3_ggc_label_1a82fa08:
 
     # sec "Ok...*{i}Wheeze{/i}*"
-    sec "好的...*{i}Wheeze{/i}*"
+    sec "好的……*{i}喘息{/i}*"
 
 # game/update3.rpy:2796
 translate schinese ep3_ggc_label_647c64d3:
@@ -7534,7 +7534,7 @@ translate schinese ep3_ggc_label_05b9adce:
 translate schinese ep3_ggc_label_ec80a632:
 
     # sec "Ugh! What the-!"
-    sec "啊!什么-！"
+    sec "啊！什么-！"
 
 # game/update3.rpy:2807
 translate schinese ep3_ggc_label_a77d6255:
@@ -7570,7 +7570,7 @@ translate schinese ep3_diks_talk_label_f9183d6b:
 translate schinese ep3_diks_talk_label_46314829:
 
     # rs "This one is too close to call."
-    rs "这个数字太接近了。"
+    rs "这次实在难分高下。"
 
 # game/update3.rpy:2817
 translate schinese ep3_diks_talk_label_0f87b359:
@@ -7600,7 +7600,7 @@ translate schinese ep3_diks_talk_label_cc21f473:
 translate schinese ep3_diks_talk_label_f46618ce:
 
     # tm "Get a load of this smartass."
-    tm "好好了解一下这个聪明人吧。"
+    tm "瞧瞧这个自作聪明的小子。"
 
 # game/update3.rpy:2827
 translate schinese ep3_diks_talk_label_970951de:
@@ -7612,13 +7612,13 @@ translate schinese ep3_diks_talk_label_970951de:
 translate schinese ep3_diks_talk_label_2199f70c:
 
     # de "Aww..."
-    de "哇..."
+    de "哇……"
 
 # game/update3.rpy:2830
 translate schinese ep3_diks_talk_label_e8c3a6d9:
 
     # rs "Hey, don't pout! That's one task you can cross off the board!"
-    rs "喂，别撅嘴！这是一项您可以从棋盘上划掉的任务！"
+    rs "喂，别撅嘴！这是一项你可以从棋盘上划掉的任务！"
 
 # game/update3.rpy:2832
 translate schinese ep3_diks_talk_label_4c446949:
@@ -7654,7 +7654,7 @@ translate schinese ep3_diks_talk_label_f45caf45:
 translate schinese ep3_diks_talk_label_d08f3f9e:
 
     # jm "*{i}Cliiiick{/i}*"
-    jm "*{i}点击{/i}*"
+    jm "*{i}咔嚓{/i}*"
 
 # game/update3.rpy:2853
 translate schinese ep3_diks_talk_label_39eb6eae:
@@ -7684,7 +7684,7 @@ translate schinese ep3_jocks_talk_label_e51904ae:
 translate schinese ep3_jocks_talk_label_724ac2bc:
 
     # ar "Do you need some help?"
-    ar "您需要帮助吗？"
+    ar "你需要帮助吗？"
 
 # game/update3.rpy:2874
 translate schinese ep3_jocks_talk_label_1aa6ff9a:
@@ -7708,7 +7708,7 @@ translate schinese ep3_jocks_talk_label_04f0e2ba:
 translate schinese ep3_jocks_talk_label_e5c50215:
 
     # dw "Ah! There we go! Yes!"
-    dw "啊!我们开始吧！是的！"
+    dw "啊！我们开始吧！是的！"
 
 # game/update3.rpy:2881
 translate schinese ep3_jocks_talk_label_94e14e8d:
@@ -7720,7 +7720,7 @@ translate schinese ep3_jocks_talk_label_94e14e8d:
 translate schinese ep3_jocks_talk_label_ea2f0397:
 
     # dw "Hey! Most girls would kill for someone who lasts as long in bed as I do!"
-    dw "嘿！大多数女孩都会为了像我这样在床上呆得这么久的人而杀人！"
+    dw "嘿！大多数女人做梦都想要我这么持久的男人！"
 
 # game/update3.rpy:2883
 translate schinese ep3_jocks_talk_label_9d8cbd87:
@@ -7750,13 +7750,13 @@ translate schinese ep3_jocks_talk_label_befe69e3:
 translate schinese ep3_jocks_talk_label_800889b8:
 
     # dw "What the fuck...?"
-    dw "什么他妈的...？"
+    dw "什么他妈的……？"
 
 # game/update3.rpy:2890
 translate schinese ep3_jocks_talk_label_787292c8:
 
     # dw "You're usually much tighter."
-    dw "你通常要紧得多。"
+    dw "你平时紧得多啊。"
 
 # game/update3.rpy:2892
 translate schinese ep3_jocks_talk_label_0b1528d5:
@@ -7786,7 +7786,7 @@ translate schinese ep3_jocks_talk_label_dcdc9486:
 translate schinese ep3_jocks_talk_label_3779f18f:
 
     # an "Oh... Hi, Ari."
-    an "哦...嗨，阿里。"
+    an "哦……嗨，阿里。"
 
 # game/update3.rpy:2900
 translate schinese ep3_jocks_talk_label_561ac492:
@@ -7804,7 +7804,7 @@ translate schinese ep3_jocks_talk_label_b2de6637:
 translate schinese ep3_jocks_talk_label_d0743c36:
 
     # ch "I fucked up. Big time."
-    ch "我搞砸了。很开心。"
+    ch "我搞砸了。彻彻底底地搞砸了。"
 
 # game/update3.rpy:2908
 translate schinese ep3_jocks_talk_label_7f0058e4:
@@ -7852,7 +7852,7 @@ translate schinese ep3_jocks_talk_label_8f122cf9:
 translate schinese ep3_jocks_talk_label_3b990083:
 
     # ch "They can. I lost my cool and beat up that freshy, [name]."
-    ch "他们可以。我失去了冷静，殴打了那个新鲜人，[name]。"
+    ch "他们可以。我当时没沉住气，把那个新生 [name] 揍了。"
 
 # game/update3.rpy:2932
 translate schinese ep3_jocks_talk_label_f19b136f:
@@ -7888,7 +7888,7 @@ translate schinese ep3_jocks_talk_label_d69c365b:
 translate schinese ep3_jocks_talk_label_09e0a832:
 
     # dw "Is that my Arieth?"
-    dw "那是我的阿里埃斯吗？"
+    dw "那是我家 Arieth 吗？"
 
 # game/update3.rpy:2952
 translate schinese ep3_jocks_talk_label_f28e23d9:
@@ -7900,7 +7900,7 @@ translate schinese ep3_jocks_talk_label_f28e23d9:
 translate schinese ep3_jocks_talk_label_81e52bf8:
 
     # dw "Has she fucked all of them?"
-    dw "她把他们都搞砸了吗？"
+    dw "她把他们全都睡了吗？"
 
 # game/update3.rpy:2956
 translate schinese ep3_jocks_talk_label_481db9c5:
@@ -7912,7 +7912,7 @@ translate schinese ep3_jocks_talk_label_481db9c5:
 translate schinese ep3_jocks_talk_label_3a6ed2cb:
 
     # an "Wait! DIKs?"
-    an "等待！ DIK？"
+    an "等等！DIK？"
 
 # game/update3.rpy:2959
 translate schinese ep3_jocks_talk_label_7491ed71:
@@ -7936,7 +7936,7 @@ translate schinese ep3_jocks_talk_label_386ec094:
 translate schinese ep3_jocks_talk_label_875a0051:
 
     # an "These are way older than a week."
-    an "这些已经超过一周了。"
+    an "这些可比一周老多了。"
 
 # game/update3.rpy:2969
 translate schinese ep3_jocks_talk_label_753c5fa5:
@@ -7960,7 +7960,7 @@ translate schinese ep3_jocks_talk_label_c075d9c9:
 translate schinese ep3_jocks_talk_label_633bffa3:
 
     # ch "The counselors will be watching you guys from now on."
-    ch "从现在开始，辅导员将会注视着你们。"
+    ch "从现在开始，辅导员会盯紧你们。"
 
 # game/update3.rpy:2978
 translate schinese ep3_jocks_talk_label_70dfb5ea:
@@ -7972,7 +7972,7 @@ translate schinese ep3_jocks_talk_label_70dfb5ea:
 translate schinese ep3_jocks_talk_label_48e981b7:
 
     # ch "That's it for the tri-alphas."
-    ch "这就是三阿尔法的情况。"
+    ch "三甲兄弟会就到此为止了。"
 
 # game/update3.rpy:2980
 translate schinese ep3_jocks_talk_label_3ec2c0e4:
@@ -8014,7 +8014,7 @@ translate schinese ep3_jocks_talk_label_8cc3431c:
 translate schinese ep3_jocks_talk_label_1c976e1a:
 
     # an "What about Sage? I'm sure she'll help you."
-    an "那么圣人呢？我确信她会帮助你。"
+    an "那 Sage 呢？她肯定会帮你的。"
 
 # game/update3.rpy:3007
 translate schinese ep3_jocks_talk_label_f80d62ea:
@@ -8026,7 +8026,7 @@ translate schinese ep3_jocks_talk_label_f80d62ea:
 translate schinese ep3_jocks_talk_label_79e61ab7:
 
     # ch "...and you need to get yourselves a new president."
-    ch "……你们需要给自己找一位新总统。"
+    ch "……你们得再选一个新主席了。"
 
 # game/update3.rpy:3013
 translate schinese ep3_jocks_talk_label_de118cf0:
@@ -8062,7 +8062,7 @@ translate schinese ep3_lunch_bella_label_9152707e:
 translate schinese ep3_lunch_bella_label_93f48c6f:
 
     # de "Yeah, totally! Can you believe that this guy was gonna go around asking girls to sit on his face while wearing that?"
-    de "是啊，完全！你能相信这家伙会四处走动，让女孩子戴着它坐在他的脸上吗？"
+    de "是啊，一点没错！你能相信这家伙打算戴着那玩意儿到处问女生愿不愿意坐在他脸上吗？"
 
 # game/update3.rpy:3035
 translate schinese ep3_lunch_bella_label_9182f47f:
@@ -8122,7 +8122,7 @@ translate schinese ep3_lunch_bella_label_c8b6f0ea:
 translate schinese ep3_lunch_bella_label_df285dc3:
 
     # de "I'm weird? You're the one watching nature programs with seals growing cocks on their heads."
-    de "我很奇怪吗？您是观看自然节目的人，海豹头上长着雄鸡。"
+    de "我奇怪？你才是那个看自然节目、觉得海豹头上长了根鸡巴的人。"
 
 # game/update3.rpy:3052
 translate schinese ep3_lunch_bella_label_9cde0516:
@@ -8158,13 +8158,13 @@ translate schinese ep3_lunch_bella_label_e06e694e:
 translate schinese ep3_lunch_bella_label_fa13e95d:
 
     # mc "See you in math class, something came up."
-    mc "数学课见，有事发生。"
+    mc "数学课见，我有点事。"
 
 # game/update3.rpy:3068
 translate schinese ep3_lunch_bella_label_7b81bce5:
 
     # mc "...whatever. Enjoy your date."
-    mc "...任何。享受你的约会。"
+    mc "……随便吧。好好享受你们的约会。"
 
 # game/update3.rpy:3071
 translate schinese ep3_lunch_bella_label_34d49be6:
@@ -8182,13 +8182,13 @@ translate schinese ep3_lunch_bella_label_ce7af575:
 translate schinese ep3_lunch_bella_label_15b38787:
 
     # mc "Here, let me get that for you."
-    mc "在这里，让我给你拿一下。"
+    mc "来，这个我来付。"
 
 # game/update3.rpy:3095
 translate schinese ep3_lunch_bella_label_5eee34be:
 
     # isa "Why? You're up to something."
-    isa "为什么？你想做点什么。"
+    isa "为什么？你肯定没安好心。"
 
 # game/update3.rpy:3097
 translate schinese ep3_lunch_bella_label_2f2297bb:
@@ -8230,7 +8230,7 @@ translate schinese ep3_lunch_bella_label_a274ecba:
 translate schinese ep3_lunch_bella_label_a763e761:
 
     # ll "Are you enjoying our shitty, smelly food?"
-    ll "你喜欢吃我们又臭又臭的食物吗？"
+    ll "喜欢我们的烂饭菜、臭烘烘的食物吗？"
 
 # game/update3.rpy:3115
 translate schinese ep3_lunch_bella_label_be4ffd7e:
@@ -8248,7 +8248,7 @@ translate schinese ep3_lunch_bella_label_a15e21c5:
 translate schinese ep3_lunch_bella_label_55eda18d:
 
     # ll "If I wasn't working right now, I'd pour another drink over you."
-    ll "如果我现在不工作，我会再给你倒一杯饮料。"
+    ll "要不是现在在上班，我非再泼你一身饮料。"
 
 # game/update3.rpy:3122
 translate schinese ep3_lunch_bella_label_7e9a5b00:
@@ -8290,7 +8290,7 @@ translate schinese ep3_lunch_bella_label_fb623a7e:
 translate schinese ep3_lunch_bella_label_b756960e:
 
     # mc "Sorry...where were we?"
-    mc "抱歉...我们说到哪儿了？"
+    mc "抱歉……我们说到哪儿了？"
 
 # game/update3.rpy:3134
 translate schinese ep3_lunch_bella_label_a32762a9:
@@ -8302,7 +8302,7 @@ translate schinese ep3_lunch_bella_label_a32762a9:
 translate schinese ep3_lunch_bella_label_27ae2808:
 
     # isa "How many times do I have to reiterate!? It wasn't a {b}date{/b}."
-    isa "我要重复多少次！？这不是{b}date{/b}。"
+    isa "我要重申多少次！？那不是{b}约会{/b}。"
 
 # game/update3.rpy:3141
 translate schinese ep3_lunch_bella_label_d265e6a9:
@@ -8326,7 +8326,7 @@ translate schinese ep3_lunch_bella_label_0075b3ac:
 translate schinese ep3_lunch_bella_label_62591e86:
 
     # isa "I'm sure you can find a better use for it."
-    isa "我相信您可以找到更好的用途。"
+    isa "我相信你可以找到更好的用途。"
 
 # game/update3.rpy:3152
 translate schinese ep3_lunch_bella_label_63653b84:
@@ -8344,7 +8344,7 @@ translate schinese ep3_lunch_bella_label_33303983:
 translate schinese ep3_lunch_bella_label_41c7b947:
 
     # mc "You got it."
-    mc "你回答正确。"
+    mc "没问题。"
 
 # game/update3.rpy:3162
 translate schinese ep3_lunch_bella_label_c1dff962:
@@ -8380,19 +8380,19 @@ translate schinese ep3_lunch_bella_label_d22714d6_1:
 translate schinese ep3_lunch_bella_label_b20d8d12:
 
     # troy "Sorry..."
-    troy "对不起..."
+    troy "对不起……"
 
 # game/update3.rpy:3186
 translate schinese ep3_lunch_bella_label_efa34c21:
 
     # mc "Don't mention it..."
-    mc "别提了..."
+    mc "别提了……"
 
 # game/update3.rpy:3188
 translate schinese ep3_lunch_bella_label_349830a6:
 
     # mc "So, Isabella..."
-    mc "那么，Isabella..."
+    mc "那么，Isabella……"
 
 # game/update3.rpy:3189
 translate schinese ep3_lunch_bella_label_c2e19634:
@@ -8428,7 +8428,7 @@ translate schinese ep3_lunch_bella_label_3e4c2038:
 translate schinese ep3_lunch_bella_label_83bafead:
 
     # isa "So was mine. Are you the only one who's allowed to tell them?"
-    isa "我的也是如此。你是唯一一个有权告诉他们的人吗？"
+    isa "我那句也是。难道只有你才配讲笑话？"
 
 # game/update3.rpy:3199
 translate schinese ep3_lunch_bella_label_6f8795b8:
@@ -8530,7 +8530,7 @@ translate schinese ep3_lunch_bella_label_10db7c3a:
 translate schinese ep3_lunch_bella_label_1015cac1:
 
     # mc "Hilarious... Thanks for making me sweat for nothing."
-    mc "搞笑...谢谢你让我无缘无故地流汗。"
+    mc "搞笑……谢谢你让我无缘无故地流汗。"
 
 # game/update3.rpy:3234
 translate schinese ep3_lunch_bella_label_68ffec15:
@@ -8572,7 +8572,7 @@ translate schinese ep3_lunch_bella_label_c5bc29fd:
 translate schinese ep3_lunch_bella_label_670dde60:
 
     # mc "You know him?"
-    mc "“你认识他？”"
+    mc "你认识他？"
 
 # game/update3.rpy:3247
 translate schinese ep3_lunch_bella_label_0caa4761:
@@ -8584,7 +8584,7 @@ translate schinese ep3_lunch_bella_label_0caa4761:
 translate schinese ep3_lunch_bella_label_224a8dfe:
 
     # isa "Also, he's got quite the reputation among teachers, too."
-    isa "而且，他在老师中也享有很高的声誉。"
+    isa "而且，他在老师当中可是出了名的。"
 
 # game/update3.rpy:3250
 translate schinese ep3_lunch_bella_label_0f032e39:
@@ -8596,7 +8596,7 @@ translate schinese ep3_lunch_bella_label_0f032e39:
 translate schinese ep3_lunch_bella_label_ad2fcb23:
 
     # isa "Like I would tell you that. You'd run off to him and spill the beans immediately."
-    isa "就像我会告诉你的那样。你会跑到他身边并立即泄露秘密。"
+    isa "我像是会告诉你的人吗？你转头就会跑去跟他一五一十地说了。"
 
 # game/update3.rpy:3254
 translate schinese ep3_lunch_bella_label_f7125a98:
@@ -8662,7 +8662,7 @@ translate schinese ep3_lunch_bella_label_015d2ece:
 translate schinese ep3_lunch_bella_label_a9e19449:
 
     # mc "Thanks...that's...blunt."
-    mc "谢谢...那是...直言不讳。"
+    mc "谢谢……那是……直言不讳。"
 
 # game/update3.rpy:3275
 translate schinese ep3_lunch_bella_label_bb365a2b:
@@ -8728,7 +8728,7 @@ translate schinese ep3_lunch_bella_label_168861fe:
 translate schinese ep3_lunch_bella_label_1f6acae3:
 
     # isa "No! About {b}you{/b}."
-    isa "不！关于{b}you{/b}。"
+    isa "不！是关于{b}你{/b}。"
 
 # game/update3.rpy:3295
 translate schinese ep3_lunch_bella_label_73fb1292:
@@ -8740,7 +8740,7 @@ translate schinese ep3_lunch_bella_label_73fb1292:
 translate schinese ep3_lunch_bella_label_f3162609:
 
     # isa "(God, he's so dense...)"
-    isa "（天哪，他太厚重了……）"
+    isa "（天哪，他可真迟钝……）"
 
 # game/update3.rpy:3297
 translate schinese ep3_lunch_bella_label_c9dd2665:
@@ -8752,7 +8752,7 @@ translate schinese ep3_lunch_bella_label_c9dd2665:
 translate schinese ep3_lunch_bella_label_97371c3e:
 
     # isa "Great. Now try it again, without sounding like a personal ad."
-    isa "伟大的。现在再试一次，不要听起来像个人广告。"
+    isa "好极了。再来一次，别听起来像征婚广告。"
 
 # game/update3.rpy:3301
 translate schinese ep3_lunch_bella_label_7bf6f19d:
@@ -8776,7 +8776,7 @@ translate schinese ep3_lunch_bella_label_4d3098ef:
 translate schinese ep3_lunch_bella_label_7d168e81:
 
     # mc "It's pretty personal..."
-    mc "真是太有个性了..."
+    mc "这挺私人的……"
 
 # game/update3.rpy:3309
 translate schinese ep3_lunch_bella_label_246fedd8:
@@ -8794,7 +8794,7 @@ translate schinese ep3_lunch_bella_label_dae2a33b:
 translate schinese ep3_zoey_label_21ea87dc:
 
     # mc "{i}Um...well...{/i}"
-    mc "{i}嗯...好吧...{/i}"
+    mc "{i}嗯……好吧……{/i}"
 
 # game/update3.rpy:3322
 translate schinese ep3_zoey_label_e139270f:
@@ -8818,7 +8818,7 @@ translate schinese ep3_zoey_label_43330850:
 translate schinese ep3_zoey_label_b378d850:
 
     # mc "{i}You know...for being poor, not having the newest sneakers...oh...and, of course, for not having a mom.{/i}"
-    mc "{i}你知道...因为贫穷，没有最新的运动鞋...哦...当然，因为没有妈妈。{/i}"
+    mc "{i}你知道……因为贫穷，没有最新的运动鞋……哦……当然，因为没有妈妈。{/i}"
 
 # game/update3.rpy:3327
 translate schinese ep3_zoey_label_36687324:
@@ -8836,7 +8836,7 @@ translate schinese ep3_zoey_label_cb4fe5f6:
 translate schinese ep3_zoey_label_062db86c:
 
     # mc "{i}I was known as the kid who just sat there... I learned to take their insults and just ignore them...{/i}"
-    mc "{i}I 被称为只是坐在那里的孩子...我学会了接受他们的侮辱并忽略他们...{/i}"
+    mc "{i}I 被称为只是坐在那里的孩子……我学会了接受他们的侮辱并忽略他们……{/i}"
 
 # game/update3.rpy:3331
 translate schinese ep3_zoey_label_ec1ce461:
@@ -8860,7 +8860,7 @@ translate schinese ep3_zoey_label_d9af6f63:
 translate schinese ep3_zoey_label_b6813dab:
 
     # mc "{i}His usual hobbies were a bit less action-filled...{/i}"
-    mc "{i}H平时的爱好比较少动感...{/i}"
+    mc "{i}H平时的爱好比较少动感……{/i}"
 
 # game/update3.rpy:3336
 translate schinese ep3_zoey_label_76059f31:
@@ -8902,7 +8902,7 @@ translate schinese ep3_zoey_label_9ac2ef90:
 translate schinese ep3_zoey_label_cdbb4b48:
 
     # mc "{i}Until one day...when I didn't have a choice.{/i}"
-    mc "{i}直到有一天...当我别无选择时。{/i}"
+    mc "{i}直到有一天……当我别无选择时。{/i}"
 
 # game/update3.rpy:3345
 translate schinese ep3_zoey_label_45878e08:
@@ -8956,13 +8956,13 @@ translate schinese ep3_zoey_label_c1f5d85c:
 translate schinese ep3_zoey_label_0f01dde4:
 
     # mc "{i}But when there are so many voices against one...{/i}"
-    mc "{i}但当有这么多声音反对一个...{/i}"
+    mc "{i}但当有这么多声音反对一个……{/i}"
 
 # game/update3.rpy:3358
 translate schinese ep3_zoey_label_85bd3f9e:
 
     # mc "{i}...it's hard to make yours heard.{/i}"
-    mc "{i}...很难让你的声音被听到。{/i}"
+    mc "{i}……很难让你的声音被听到。{/i}"
 
 # game/update3.rpy:3360
 translate schinese ep3_zoey_label_06a238ee:
@@ -9028,7 +9028,7 @@ translate schinese ep3_zoey_label_dd6eb2e3:
 translate schinese ep3_zoey_label_f9ab9652:
 
     # mc "{i}Zoey was in detention for smoking during class...{/i}"
-    mc "{i}Zoey因在课堂上吸烟而被拘留...{/i}"
+    mc "{i}Zoey因在课堂上吸烟而被拘留……{/i}"
 
 # game/update3.rpy:3374
 translate schinese ep3_zoey_label_bd0173dd:
@@ -9088,7 +9088,7 @@ translate schinese ep3_zoey_label_ff051999:
 translate schinese ep3_zoey_label_d2379585:
 
     # mc "{i}Zoey taught me a lot of things...{/i}"
-    mc "{i}Zoey 教了我很多东西...{/i}"
+    mc "{i}Zoey 教了我很多东西……{/i}"
 
 # game/update3.rpy:3387
 translate schinese ep3_zoey_label_cc2046fd:
@@ -9100,7 +9100,7 @@ translate schinese ep3_zoey_label_cc2046fd:
 translate schinese ep3_zoey_label_d9210a80:
 
     # mc "{i}I didn't like smoking and my balance wasn't meant for skateboarding...{/i}"
-    mc "{i}I 不喜欢吸烟，而且我的平衡器不适合滑板...{/i}"
+    mc "{i}I 不喜欢吸烟，而且我的平衡器不适合滑板……{/i}"
 
 # game/update3.rpy:3390
 translate schinese ep3_zoey_label_674b198f:
@@ -9130,7 +9130,7 @@ translate schinese zoey_lewd_label_6b29946e:
 translate schinese zoey_lewd_label_cfa5f547:
 
     # mc "{i}She would share it with me...{/i}"
-    mc "{i}她会与我分享...{/i}"
+    mc "{i}她会与我分享……{/i}"
 
 # game/update3.rpy:3406
 translate schinese zoey_lewd_label_2824f4b5:
@@ -9154,7 +9154,7 @@ translate schinese zoey_lewd_label_c8b33508:
 translate schinese zoey_lewd_label_a1abd95e:
 
     # mc "{i}For the first time in my life...{/i}"
-    mc "{i}我人生中第一次...{/i}"
+    mc "{i}我人生中第一次……{/i}"
 
 # game/update3.rpy:3413
 translate schinese zoey_lewd_label_d33eadf8:
@@ -9166,19 +9166,19 @@ translate schinese zoey_lewd_label_d33eadf8:
 translate schinese zoey_lewd_label_28796194:
 
     # mc "{i}My best friend, for all those years...kissed me.{/i}"
-    mc "{i}我最好的朋友，这些年来...吻了我。{/i}"
+    mc "{i}我最好的朋友，这些年来……吻了我。{/i}"
 
 # game/update3.rpy:3415
 translate schinese zoey_lewd_label_6d1862f6:
 
     # mc "{i}Our relationship shifted...from being a friendship...{/i}"
-    mc "{i}我们的关系从友谊转变...{/i}"
+    mc "{i}我们的关系从友谊转变……{/i}"
 
 # game/update3.rpy:3417
 translate schinese zoey_lewd_label_62096bc9:
 
     # mc "{i}...into something more.{/i}"
-    mc "{i}...成更多。{/i}"
+    mc "{i}……成更多。{/i}"
 
 # game/update3.rpy:3418
 translate schinese zoey_lewd_label_606d0b6d:
@@ -9226,7 +9226,7 @@ translate schinese zoey_lewd_label_a979223b:
 translate schinese zoey_lewd_label_006dd933:
 
     # mc "{i}No... I don't think it was real love.{/i}"
-    mc "{i}不...我不认为这是真爱。{/i}"
+    mc "{i}不……我不认为这是真爱。{/i}"
 
 # game/update3.rpy:3431
 translate schinese zoey_lewd_label_bee88332:
@@ -9256,7 +9256,7 @@ translate schinese zoey_lewd_label_fdc239f7:
 translate schinese zoey_lewd_label_7223af97:
 
     # mc "{i}It actually hurt...a lot.{/i}"
-    mc "{i}其实很疼...{/i}"
+    mc "{i}其实很疼……{/i}"
 
 # game/update3.rpy:3437
 translate schinese zoey_lewd_label_1342f232:
@@ -9292,7 +9292,7 @@ translate schinese zoey_lewd_label_c79cafd7:
 translate schinese zoey_lewd_label_4273069f:
 
     # mc "{i}But here we are right now...{/i}"
-    mc "{i}但我们现在在这里...{/i}"
+    mc "{i}但我们现在在这里……{/i}"
 
 # game/update3.rpy:3449
 translate schinese zoey_lewd_label_4066b315:
@@ -9304,7 +9304,7 @@ translate schinese zoey_lewd_label_4066b315:
 translate schinese zoey_lewd_label_130a447a:
 
     # mc "Lately, I seem to get crushes easily..."
-    mc "最近好像很容易暗恋…"
+    mc "最近好像很容易暗恋……"
 
 # game/update3.rpy:3451
 translate schinese zoey_lewd_label_068d9a61:
@@ -9340,13 +9340,13 @@ translate schinese ep3_bella_lunch_continued_label_fb623a7e:
 translate schinese ep3_bella_lunch_continued_label_9938727c:
 
     # isa "That was..."
-    isa "那是..."
+    isa "那是……"
 
 # game/update3.rpy:3465
 translate schinese ep3_bella_lunch_continued_label_23825cc8:
 
     # isa "...very revealing."
-    isa "...非常有启发性。"
+    isa "……非常有启发性。"
 
 # game/update3.rpy:3467
 translate schinese ep3_bella_lunch_continued_label_df4a6f21:
@@ -9364,13 +9364,13 @@ translate schinese ep3_bella_lunch_continued_label_06836384:
 translate schinese ep3_bella_lunch_continued_label_4677850b:
 
     # ja "If it isn't my favorite student. [name]... I'm glad to see you."
-    ja "如果这不是我最喜欢的学生。[name]...很高兴见到你。"
+    ja "如果这不是我最喜欢的学生。[name]……很高兴见到你。"
 
 # game/update3.rpy:3472
 translate schinese ep3_bella_lunch_continued_label_d8e45a7b:
 
     # isa "[name] is in both of your classes?"
-    isa "[name]在您的两个课程中？"
+    isa "[name]在你的两个课程中？"
 
 # game/update3.rpy:3473
 translate schinese ep3_bella_lunch_continued_label_c124d4f3:
@@ -9550,7 +9550,7 @@ translate schinese ep3_bella_lunch_continued_label_19572480:
 translate schinese ep3_bella_lunch_continued_label_3e9176a6:
 
     # mc "I'm fine..."
-    mc "我很好..."
+    mc "我很好……"
 
 # game/update3.rpy:3542
 translate schinese ep3_bella_lunch_continued_label_49cad112:
@@ -9574,7 +9574,7 @@ translate schinese ep3_bella_lunch_continued_label_cfbec88c:
 translate schinese ep3_bella_lunch_continued_label_3e9176a6_1:
 
     # mc "I'm fine..."
-    mc "我很好..."
+    mc "我很好……"
 
 # game/update3.rpy:3557
 translate schinese ep3_bella_lunch_continued_label_44e9bf98:
@@ -9682,7 +9682,7 @@ translate schinese ep3_bella_lunch_continued_label_bacb3301:
 translate schinese ep3_math_label_6dd3228b:
 
     # mc "Hey...look at Derek and that girl...Ashley..."
-    mc "嘿...看看Derek和那个女孩...阿什利..."
+    mc "嘿……看看Derek和那个女孩……阿什利……"
 
 # game/update3.rpy:3595
 translate schinese ep3_math_label_00f3de3c:
@@ -9724,7 +9724,7 @@ translate schinese ep3_math_label_833c19ae:
 translate schinese ep3_math_label_1b058cc6:
 
     # my "...or...let's be honest...ladies' {b}boy{/b}."
-    my "...或者...说实话...女士{b}boy{/b}。"
+    my "……或者……说实话……{b}娘炮{/b}。"
 
 # game/update3.rpy:3605
 translate schinese ep3_math_label_1a44f992:
@@ -9772,7 +9772,7 @@ translate schinese ep3_math_label_eff3320e:
 translate schinese ep3_math_label_58e541e1:
 
     # my "He read it in a book..."
-    my "他在一本书上读到..."
+    my "他在一本书上读到……"
 
 # game/update3.rpy:3616
 translate schinese ep3_math_label_d40ecfe4:
@@ -9808,7 +9808,7 @@ translate schinese ep3_math_label_f86f39a0:
 translate schinese ep3_math_label_3410e655:
 
     # my "You know what...strike that."
-    my "你知道吗…罢工。"
+    my "你知道吗……罢工。"
 
 # game/update3.rpy:3636
 translate schinese ep3_math_label_5191d55b:
@@ -9820,7 +9820,7 @@ translate schinese ep3_math_label_5191d55b:
 translate schinese ep3_math_label_ae4ccf07:
 
     # my "Yeah...definitely strike that."
-    my "是的…绝对是这样。"
+    my "是的……绝对是这样。"
 
 # game/update3.rpy:3640
 translate schinese ep3_math_label_fdf19464:
@@ -10042,7 +10042,7 @@ translate schinese ep3_after_math_test_c4fb06fa:
 translate schinese ep3_after_math_test_f97e677b:
 
     # de "[mc_de_up]... Sorry about that text."
-    de "[mc_de_up]...很抱歉出现了这样的文字。"
+    de "[mc_de_up]……很抱歉出现了这样的文字。"
 
 # game/update3.rpy:3733
 translate schinese ep3_after_math_test_0b15d407:
@@ -10060,7 +10060,7 @@ translate schinese ep3_after_math_test_3a8ad11f:
 translate schinese ep3_after_math_test_996d4717:
 
     # de "And I'm sorry..."
-    de "我很抱歉..."
+    de "我很抱歉……"
 
 # game/update3.rpy:3744
 translate schinese ep3_after_math_test_5494116a:
@@ -10090,7 +10090,7 @@ translate schinese ep3_after_math_test_2b35b6fe:
 translate schinese ep3_after_math_test_5c652b3a:
 
     # mc "It was very hot..."
-    mc "天气非常热..."
+    mc "天气非常热……"
 
 # game/update3.rpy:3766
 translate schinese ep3_after_math_test_22a86828:
@@ -10120,7 +10120,7 @@ translate schinese ep3_after_math_test_b72f2c56:
 translate schinese ep3_after_math_test_996d4717_1:
 
     # de "And I'm sorry..."
-    de "我很抱歉..."
+    de "我很抱歉……"
 
 # game/update3.rpy:3780
 translate schinese ep3_after_math_test_5494116a_1:
@@ -10150,7 +10150,7 @@ translate schinese ep3_after_math_test_2b35b6fe_1:
 translate schinese ep3_after_math_test_5c652b3a_1:
 
     # mc "It was very hot..."
-    mc "天气非常热..."
+    mc "天气非常热……"
 
 # game/update3.rpy:3804
 translate schinese ep3_after_math_test_22a86828_1:
@@ -10174,7 +10174,7 @@ translate schinese ep3_after_math_test_3a2f4081:
 translate schinese ep3_after_math_test_cb6be4cb:
 
     # de "I saw you bump into Dawe..."
-    de "我看到你撞到了 Dawe..."
+    de "我看到你撞到了 Dawe……"
 
 # game/update3.rpy:3813
 translate schinese ep3_after_math_test_54d91709:
@@ -10192,7 +10192,7 @@ translate schinese ep3_after_math_test_9d91b871:
 translate schinese ep3_after_math_test_ffe28ecf:
 
     # mc "After the counselors meeting this morning..."
-    mc "今天早上辅导员会议结束后..."
+    mc "今天早上辅导员会议结束后……"
 
 # game/update3.rpy:3820
 translate schinese ep3_after_math_test_23e5c749:
@@ -10264,7 +10264,7 @@ translate schinese ep3_after_math_test_c764d9d0:
 translate schinese ep3_after_math_test_03039e99:
 
     # de "You know...CUM-petition style..."
-    de "你知道… CUM-petition风格…"
+    de "你知道…… CUM-petition风格……"
 
 # game/update3.rpy:3872
 translate schinese ep3_after_math_test_a1a60124:
@@ -10282,7 +10282,7 @@ translate schinese ep3_after_math_test_299592a9:
 translate schinese ep3_after_math_test_235f2116:
 
     # de "You don't have to! We fill a condom with some love juice..."
-    de "您不必这样做！我们在避孕套里装满了一些爱情果汁……"
+    de "你不必这样做！我们在避孕套里装满了一些爱情果汁……"
 
 # game/update3.rpy:3879
 translate schinese ep3_after_math_test_b2076bf5:
@@ -10294,7 +10294,7 @@ translate schinese ep3_after_math_test_b2076bf5:
 translate schinese ep3_after_math_test_f41b867a:
 
     # mc "It's a very risky plan..."
-    mc "这是一个非常危险的计划..."
+    mc "这是一个非常危险的计划……"
 
 # game/update3.rpy:3890
 translate schinese ep3_after_math_test_a5e7fd48:
@@ -10306,7 +10306,7 @@ translate schinese ep3_after_math_test_a5e7fd48:
 translate schinese ep3_after_math_test_92b48b12:
 
     # mc "Don't assume that. I've got this..."
-    mc "不要这么想。我有这个..."
+    mc "不要这么想。我有这个……"
 
 # game/update3.rpy:3900
 translate schinese ep3_after_math_test_3bba71e3:
@@ -10330,7 +10330,7 @@ translate schinese ep3_after_math_test_72d55590:
 translate schinese ep3_after_math_test_e1c511bf:
 
     # mc "Not all by yourself...I can get the proof..."
-    mc "不是全靠你自己...我可以找到证据..."
+    mc "不是全靠你自己……我可以找到证据……"
 
 # game/update3.rpy:3915
 translate schinese ep3_after_math_test_79228530:
@@ -10366,7 +10366,7 @@ translate schinese ep3_jill_isa_label_3d6c564c:
 translate schinese ep3_jill_isa_label_cfc7b9f2:
 
     # ji "I need you..."
-    ji "我需要你..."
+    ji "我需要你……"
 
 # game/update3.rpy:3934
 translate schinese ep3_jill_isa_label_707ef0f3:
@@ -10384,7 +10384,7 @@ translate schinese ep3_jill_isa_label_773a04fc:
 translate schinese ep3_jill_isa_label_6fa89897:
 
     # ji "It's [name]..."
-    ji "这是[name]..."
+    ji "这是[name]……"
 
 # game/update3.rpy:3939
 translate schinese ep3_jill_isa_label_779caf54:
@@ -10594,7 +10594,7 @@ translate schinese ep3_jill_isa_label_276665f5:
 translate schinese ep3_jill_isa_label_d90371bf:
 
     # isa "But the way he's acting..."
-    isa "但他的表现..."
+    isa "但他的表现……"
 
 # game/update3.rpy:4004
 translate schinese ep3_jill_isa_label_548699d8:
@@ -10624,7 +10624,7 @@ translate schinese ep3_jill_isa_label_d0be05d0:
 translate schinese ep3_jill_isa_label_c7ee751f:
 
     # isa "I wanted to make sure if he was good enough for you..."
-    isa "我想确定他是否适合你..."
+    isa "我想确定他是否适合你……"
 
 # game/update3.rpy:4011
 translate schinese ep3_jill_isa_label_aaf1c717:
@@ -10642,7 +10642,7 @@ translate schinese ep3_jill_isa_label_abd961cc:
 translate schinese ep3_jill_isa_label_6a315c0b:
 
     # ji "I'm not sure I'm looking for someone to date..."
-    ji "我不确定我是在找人约会..."
+    ji "我不确定我是在找人约会……"
 
 # game/update3.rpy:4015
 translate schinese ep3_jill_isa_label_c256d43f:
@@ -10696,7 +10696,7 @@ translate schinese ep3_jill_isa_label_cbf1a521:
 translate schinese ep3_jill_isa_label_6da40f3b:
 
     # isa "...but he's a way better choice than Tybalt. That's for sure."
-    isa "...但他是比提伯尔特更好的选择。这是肯定的。"
+    isa "……但他是比提伯尔特更好的选择。这是肯定的。"
 
 # game/update3.rpy:4032
 translate schinese ep3_jill_isa_label_720a82f6:
@@ -10846,7 +10846,7 @@ translate schinese ep3_march_label_ea836c2d:
 translate schinese ep3_march_label_09f38fc4:
 
     # rs "...but had luck and still got accepted."
-    rs "...但是运气好，仍然被接受了。"
+    rs "……但是运气好，仍然被接受了。"
 
 # game/update3.rpy:4118
 translate schinese ep3_march_label_69ae5208:
@@ -11032,7 +11032,7 @@ translate schinese ep3_march_label_cdbf71a1:
 translate schinese ep3_march_label_62627a8c:
 
     # jac "Hey! Isn't that..."
-    jac "嘿！那不是..."
+    jac "嘿！那不是……"
 
 # game/update3.rpy:4209
 translate schinese ep3_march_label_58a9fba1:
@@ -11116,7 +11116,7 @@ translate schinese ep3_march_label_b2a12e62:
 translate schinese ep3_march_label_a2723e2c:
 
     # mc "There's this other girl I've been dating..."
-    mc "还有一个我一直在约会的女孩..."
+    mc "还有一个我一直在约会的女孩……"
 
 # game/update3.rpy:4235
 translate schinese ep3_march_label_e7f543a5:
@@ -11134,7 +11134,7 @@ translate schinese ep3_march_label_c42aa356:
 translate schinese ep3_march_label_85030fc4:
 
     # de "Oh..."
-    de "哦..."
+    de "哦……"
 
 # game/update3.rpy:4242
 translate schinese ep3_march_label_8afb8b31:
@@ -11146,7 +11146,7 @@ translate schinese ep3_march_label_8afb8b31:
 translate schinese ep3_march_label_0dfa893d:
 
     # de "Is she someone you want to..."
-    de "她是你想要的人吗..."
+    de "她是你想要的人吗……"
 
 # game/update3.rpy:4248
 translate schinese ep3_march_label_fd3ae1a2:
@@ -11164,7 +11164,7 @@ translate schinese ep3_march_label_fdcbf754:
 translate schinese ep3_march_label_85030fc4_1:
 
     # de "Oh..."
-    de "哦..."
+    de "哦……"
 
 # game/update3.rpy:4259
 translate schinese ep3_march_label_03a3b0aa:
@@ -11188,7 +11188,7 @@ translate schinese ep3_march_label_aa3c4c27:
 translate schinese ep3_march_label_a6fe67b0:
 
     # mc "But after this weekend..."
-    mc "但这个周末之后..."
+    mc "但这个周末之后……"
 
 # game/update3.rpy:4271
 translate schinese ep3_march_label_4cf431b0:
@@ -11248,7 +11248,7 @@ translate schinese ep3_march_label_5c79d0ab:
 translate schinese ep3_march_label_f8ee69cc:
 
     # de "[mc_de_up]... Please. Ok?"
-    de "[mc_de_up]...请问好吗？"
+    de "[mc_de_up]……请问好吗？"
 
 # game/update3.rpy:4313
 translate schinese ep3_march_label_c2e009ad:
@@ -11266,7 +11266,7 @@ translate schinese ep3_march_label_47ea6dd9:
 translate schinese ep3_march_label_a89405a5:
 
     # de "And I don't know how to say this..."
-    de "而且我不知道该怎么说这个..."
+    de "而且我不知道该怎么说这个……"
 
 # game/update3.rpy:4316
 translate schinese ep3_march_label_58d0934d:
@@ -11386,7 +11386,7 @@ translate schinese ep3_quinn_riona_label_60f958a1:
 translate schinese ep3_quinn_riona_label_24da4061:
 
     # ri "Plus, we're risking it all doing this your way."
-    ri "另外，我们冒着一切风险按照您的方式行事。"
+    ri "另外，我们冒着一切风险按照你的方式行事。"
 
 # game/update3.rpy:4360
 translate schinese ep3_quinn_riona_label_801a5b51:
@@ -11434,13 +11434,13 @@ translate schinese ep3_quinn_riona_label_7d2c16ff:
 translate schinese ep3_quinn_riona_label_7808a39e:
 
     # ri "...then we cut our losses and we move on..."
-    ri "...然后我们减少损失并继续前进..."
+    ri "……然后我们减少损失并继续前进……"
 
 # game/update3.rpy:4376
 translate schinese ep3_quinn_riona_label_98b99891:
 
     # ri "...before this gets harder to keep up with."
-    ri "...在这变得更难跟上之前。"
+    ri "……在这变得更难跟上之前。"
 
 # game/update3.rpy:4378
 translate schinese ep3_quinn_riona_label_2a3bab30:
@@ -11548,7 +11548,7 @@ translate schinese ep3_quinn_riona_label_e2f223b9:
 translate schinese ep3_quinn_riona_label_03cc7a67:
 
     # ri "What kind of offer are you thinking about?"
-    ri "您正在考虑什么样的报价？"
+    ri "你正在考虑什么样的报价？"
 
 # game/update3.rpy:4416
 translate schinese ep3_quinn_riona_label_92d9c617:
@@ -11620,7 +11620,7 @@ translate schinese ep3_quinn_riona_label_a5c57fb6:
 translate schinese ep3_quinn_riona_label_2a9083ef:
 
     # ri "Ok... I'll talk to Sarah and Melanie to see if they've got something."
-    ri "好的...我会和Sarah和Melanie谈谈，看看他们是否有什么东西。"
+    ri "好的……我会和Sarah和Melanie谈谈，看看他们是否有什么东西。"
 
 # game/update3.rpy:4456
 translate schinese ep3_guitar_sage_label_cf1e3cd5:
@@ -11632,7 +11632,7 @@ translate schinese ep3_guitar_sage_label_cf1e3cd5:
 translate schinese ep3_guitar_sage_label_34c0baf8:
 
     # mc "(...or some more fun?)"
-    mc "（...或者一些更有趣的事情？）"
+    mc "（……或者一些更有趣的事情？）"
 
 # game/update3.rpy:4459
 translate schinese ep3_guitar_sage_label_fbf81df9:
@@ -11842,7 +11842,7 @@ translate schinese ep3_guitar_sage2_label_881f5145:
 translate schinese ep3_guitar_sage2_label_ee70ca3a:
 
     # sa "...and you can't wait to leave instead of trying to get inside of her panties!"
-    sa "...你迫不及待地想离开而不是试图进入她的内裤！"
+    sa "……你迫不及待地想离开而不是试图进入她的内裤！"
 
 # game/update3.rpy:4577
 translate schinese ep3_guitar_sage2_label_7b29fe99:
@@ -11866,7 +11866,7 @@ translate schinese ep3_guitar_sage2_label_d9ce78b6:
 translate schinese ep3_guitar_sage2_label_cf63278a:
 
     # sa "I know because..."
-    sa "我知道因为..."
+    sa "我知道因为……"
 
 # game/update3.rpy:4593
 translate schinese ep3_guitar_sage2_label_8d9fc671:
@@ -12040,7 +12040,7 @@ translate schinese ep3_guitar_sage2_label_2298a850:
 translate schinese ep3_guitar_sage2_label_541e7508:
 
     # mc "You don't have to explain."
-    mc "你不用解释了!"
+    mc "你不用解释了！"
 
 # game/update3.rpy:4662
 translate schinese ep3_guitar_sage2_label_e77db2be:
@@ -12100,7 +12100,7 @@ translate schinese ep3_guitar_sage2_label_e44d9b94:
 translate schinese ep3_guitar_sage2_label_3ae0890b:
 
     # sa "Apparently not..."
-    sa "显然不是..."
+    sa "显然不是……"
 
 # game/update3.rpy:4682
 translate schinese ep3_guitar_sage2_label_6dc1dd9c:
@@ -12130,13 +12130,13 @@ translate schinese ep3_guitar_sage2_label_4009dfa3:
 translate schinese ep3_guitar_sage2_label_315e336c:
 
     # sa "Oh..."
-    sa "哦..."
+    sa "哦……"
 
 # game/update3.rpy:4692
 translate schinese ep3_guitar_sage2_label_297f8eae:
 
     # sa "That..."
-    sa "那..."
+    sa "那……"
 
 # game/update3.rpy:4694
 translate schinese ep3_guitar_sage2_label_340e4e21:
@@ -12238,13 +12238,13 @@ translate schinese ep3_sage_lewd_label_69c25b65:
 translate schinese ep3_sage_lewd_label_88bc8a2f:
 
     # mc "But you know...it was for teaching purposes."
-    mc "但你知道...这是为了教学目的。"
+    mc "但你知道……这是为了教学目的。"
 
 # game/update3.rpy:4753
 translate schinese ep3_sage_lewd_label_17b185e8:
 
     # sa "Not only..."
-    sa "不仅..."
+    sa "不仅……"
 
 # game/update3.rpy:4755
 translate schinese ep3_sage_lewd_label_40d5592c:
@@ -12268,13 +12268,13 @@ translate schinese ep3_sage_lewd_label_cf1adef2:
 translate schinese ep3_sage_lewd_label_a2966d6f:
 
     # sa "All right..."
-    sa "好的..."
+    sa "好的……"
 
 # game/update3.rpy:4772
 translate schinese ep3_sage_lewd_label_7ff3fb87:
 
     # mc "Well...no. It was a way to get closer to you, too."
-    mc "嗯...不。这也是一种接近你的方式。"
+    mc "嗯……不。这也是一种接近你的方式。"
 
 # game/update3.rpy:4775
 translate schinese ep3_sage_lewd_label_f0e8d857:
@@ -12304,19 +12304,19 @@ translate schinese ep3_sage_lewd_label_1aa60e9a:
 translate schinese ep3_sage_lewd_label_17b2ea64:
 
     # sa "I know it wasn't supposed to be that, but still..."
-    sa "我知道事情不应该如此，但仍然..."
+    sa "我知道事情不应该如此，但仍然……"
 
 # game/update3.rpy:4783
 translate schinese ep3_sage_lewd_label_e6dddc75:
 
     # sa "Then you looked at me..."
-    sa "然后你看着我..."
+    sa "然后你看着我……"
 
 # game/update3.rpy:4784
 translate schinese ep3_sage_lewd_label_59f18592:
 
     # sa "...and you know that feeling you get...?"
-    sa "...你知道那种感觉吗...？"
+    sa "……你知道那种感觉吗……？"
 
 # game/update3.rpy:4785
 translate schinese ep3_sage_lewd_label_b38d9a25:
@@ -12370,13 +12370,13 @@ translate schinese ep3_sage_lewd_label_af5bff1a:
 translate schinese ep3_sage_lewd_label_92567850:
 
     # sa "Don't mind me..."
-    sa "别介意我..."
+    sa "别介意我……"
 
 # game/update3.rpy:4803
 translate schinese ep3_sage_lewd_label_93ce623e:
 
     # sa "Keep playing that guitar..."
-    sa "继续弹吉他..."
+    sa "继续弹吉他……"
 
 # game/update3.rpy:4805
 translate schinese ep3_sage_lewd_label_75b5dbb4:
@@ -12394,13 +12394,13 @@ translate schinese ep3_sage_lewd_label_33484fa7:
 translate schinese ep3_sage_lewd_label_b05a3ed4:
 
     # sa "Don't stop playing..."
-    sa "别停止玩..."
+    sa "别停止玩……"
 
 # game/update3.rpy:4809
 translate schinese ep3_sage_lewd_label_37a45c1e:
 
     # sa "I'm just gonna check something..."
-    sa "我只是要检查一些东西..."
+    sa "我只是要检查一些东西……"
 
 # game/update3.rpy:4811
 translate schinese ep3_sage_lewd_label_1f294b39:
@@ -12430,7 +12430,7 @@ translate schinese ep3_sage_lewd_label_55857b0f:
 translate schinese ep3_sage_lewd_label_a07bd25f:
 
     # mc "No, never..."
-    mc "不，从来没有..."
+    mc "不，从来没有……"
 
 # game/update3.rpy:4819
 translate schinese ep3_sage_lewd_label_db648c62:
@@ -12442,7 +12442,7 @@ translate schinese ep3_sage_lewd_label_db648c62:
 translate schinese ep3_sage_lewd_label_8a5fb6b6:
 
     # mc "I'm just gonna take my pants off..."
-    mc "我只想把裤子脱了..."
+    mc "我只想把裤子脱了……"
 
 # game/update3.rpy:4822
 translate schinese ep3_sage_lewd_label_775663cd:
@@ -12472,7 +12472,7 @@ translate schinese ep3_sage_lewd_label_a8a67052:
 translate schinese ep3_sage_lewd_label_066b0d1e:
 
     # mc "Let's just keep doing this..."
-    mc "让我们继续这样做..."
+    mc "让我们继续这样做……"
 
 # game/update3.rpy:4830
 translate schinese ep3_sage_lewd_label_f94e4fbf:
@@ -12484,7 +12484,7 @@ translate schinese ep3_sage_lewd_label_f94e4fbf:
 translate schinese ep3_sage_lewd_label_1eb8df2e:
 
     # sa "*{i}Whispers{/i}* Ah, so you like it when I play with your...cock?"
-    sa "*{i}Whispers{/i}* 啊，所以你喜欢我玩你的……鸡巴？"
+    sa "*{i}低语{/i}* 啊，所以你喜欢我玩你的……鸡巴？"
 
 # game/update3.rpy:4834
 translate schinese ep3_sage_lewd_label_db2ffca3:
@@ -12496,7 +12496,7 @@ translate schinese ep3_sage_lewd_label_db2ffca3:
 translate schinese ep3_sage_lewd_label_bfc04ae0:
 
     # sa "This is what I wanted..."
-    sa "这就是我想要的..."
+    sa "这就是我想要的……"
 
 # game/update3.rpy:4837
 translate schinese ep3_sage_lewd_label_3d69b87f:
@@ -12508,13 +12508,13 @@ translate schinese ep3_sage_lewd_label_3d69b87f:
 translate schinese ep3_sage_lewd_label_a68534ef:
 
     # sa "Someone to play with..."
-    sa "有人一起玩..."
+    sa "有人一起玩……"
 
 # game/update3.rpy:4840
 translate schinese ep3_sage_lewd_label_86d83f45:
 
     # sa "Someone to explore..."
-    sa "有人要探索..."
+    sa "有人要探索……"
 
 # game/update3.rpy:4842
 translate schinese ep3_sage_lewd_label_9e98ea06:
@@ -12568,7 +12568,7 @@ translate schinese ep3_sage_lewd_label_05fe380b:
 translate schinese ep3_sage_lewd_label_bed563c3:
 
     # sa "And it's {b}SOOOO{/b} important that sex must be with someone you're dating or love."
-    sa "{b}SOOO{/b}重要的是，必须与您约会或爱的人发生性关系。"
+    sa "{b}特————{/b}重要的是，性必须和你约会或爱的人发生。"
 
 # game/update3.rpy:4855
 translate schinese ep3_sage_lewd_label_f5591773:
@@ -12580,7 +12580,7 @@ translate schinese ep3_sage_lewd_label_f5591773:
 translate schinese ep3_sage_lewd_label_ee5a17b4:
 
     # sa "This is not about relationships..."
-    sa "这不是人际关系的问题..."
+    sa "这不是人际关系的问题……"
 
 # game/update3.rpy:4858
 translate schinese ep3_sage_lewd_label_53c5593c:
@@ -12658,7 +12658,7 @@ translate schinese ep3_sage_lewd_label_1cd900a6:
 translate schinese ep3_sage_lewd_label_ebdfeee6:
 
     # sa "Tell me..."
-    sa "告诉我..."
+    sa "告诉我……"
 
 # game/update3.rpy:4887
 translate schinese ep3_sage_lewd_label_117cc024:
@@ -12682,13 +12682,13 @@ translate schinese ep3_sage_lewd_label_44460434:
 translate schinese ep3_sage_lewd_label_b68ae7ae:
 
     # sa "Good..."
-    sa "好的..."
+    sa "好的……"
 
 # game/update3.rpy:4905
 translate schinese ep3_sage_lewd_label_b26e59ee:
 
     # sa "Let's see how you like this..."
-    sa "让我们看看你喜欢这个..."
+    sa "让我们看看你喜欢这个……"
 
 # game/update3.rpy:4907
 translate schinese ep3_sage_lewd_label_83d3ea75:
@@ -12706,7 +12706,7 @@ translate schinese ep3_sage_lewd_label_82a5569a:
 translate schinese ep3_sage_lewd_label_bf61f15f:
 
     # sa "I like both..."
-    sa "两个我都喜欢..."
+    sa "两个我都喜欢……"
 
 # game/update3.rpy:4912
 translate schinese ep3_sage_lewd_label_0c67c663:
@@ -12724,13 +12724,13 @@ translate schinese ep3_sage_lewd_label_90918bda:
 translate schinese ep3_sage_lewd_label_bd6552ce:
 
     # sa "I like getting inventive, too..."
-    sa "我也喜欢发挥创意..."
+    sa "我也喜欢发挥创意……"
 
 # game/update3.rpy:4917
 translate schinese ep3_sage_lewd_label_7e8da19f:
 
     # sa "But remember... I'm in control..."
-    sa "但请记住...我可以控制..."
+    sa "但请记住……我可以控制……"
 
 # game/update3.rpy:4919
 translate schinese ep3_sage_lewd_label_a947e9bd:
@@ -12760,19 +12760,19 @@ translate schinese ep3_sage_lewd_label_230a8c1b:
 translate schinese ep3_sage_lewd_label_a16e6a73:
 
     # mc "Oh, man... Can you put it in further?"
-    mc "哦，伙计...你能再补充一点吗？"
+    mc "哦，伙计……你能再补充一点吗？"
 
 # game/update3.rpy:4925
 translate schinese ep3_sage_lewd_label_af3a95cb:
 
     # sa "Haha! I know that's what you want..."
-    sa "哈哈！我知道这就是你想要的..."
+    sa "哈哈！我知道这就是你想要的……"
 
 # game/update3.rpy:4926
 translate schinese ep3_sage_lewd_label_87ec364d:
 
     # sa "But remember... I'm the one in charge here."
-    sa "但请记住...我是这里的负责人。"
+    sa "但请记住……我是这里的负责人。"
 
 # game/update3.rpy:4927
 translate schinese ep3_sage_lewd_label_b396705b:
@@ -12784,7 +12784,7 @@ translate schinese ep3_sage_lewd_label_b396705b:
 translate schinese ep3_sage_lewd_label_77aace08:
 
     # sa "And what I want from you..."
-    sa "而我想从你这里得到什么..."
+    sa "而我想从你这里得到什么……"
 
 # game/update3.rpy:4931
 translate schinese ep3_sage_lewd_label_70c71af6:
@@ -12820,7 +12820,7 @@ translate schinese ep3_sage_lewd_label_519ca7fc:
 translate schinese ep3_sage_lewd_label_ea296b23:
 
     # sa "Oh, God! Yes! Just like that..."
-    sa "哦，上帝！是的！就这样..."
+    sa "哦，上帝！是的！就这样……"
 
 # game/update3.rpy:4940
 translate schinese ep3_sage_lewd_label_293ec154:
@@ -12832,13 +12832,13 @@ translate schinese ep3_sage_lewd_label_293ec154:
 translate schinese ep3_sage_lewd_label_2d2e43a4:
 
     # sa "To feel sexual..."
-    sa "感受性..."
+    sa "感受性……"
 
 # game/update3.rpy:4943
 translate schinese ep3_sage_lewd_label_7f5f66a9:
 
     # mc "I can make you feel that anytime you want..."
-    mc "我可以让你随时感受到..."
+    mc "我可以让你随时感受到……"
 
 # game/update3.rpy:4945
 translate schinese ep3_sage_lewd_label_b80dd22d:
@@ -12856,13 +12856,13 @@ translate schinese ep3_sage_lewd_label_3f717302:
 translate schinese ep3_sage_lewd_label_ae7c980f:
 
     # sa "I'll think about it..."
-    sa "我会考虑一下..."
+    sa "我会考虑一下……"
 
 # game/update3.rpy:4961
 translate schinese ep3_sage_lewd_label_dd9add4e:
 
     # sa "Ok..."
-    sa "好的..."
+    sa "好的……"
 
 # game/update3.rpy:4963
 translate schinese ep3_sage_lewd_label_7c52a747:
@@ -12880,19 +12880,19 @@ translate schinese ep3_sage_lewd_label_1a9eb876:
 translate schinese ep3_sage_lewd_label_9ddfba90:
 
     # sa "I like where this is going..."
-    sa "我喜欢这样的发展方向..."
+    sa "我喜欢这样的发展方向……"
 
 # game/update3.rpy:4967
 translate schinese ep3_sage_lewd_label_3b44f1cf:
 
     # mc "Open up..."
-    mc "打开..."
+    mc "打开……"
 
 # game/update3.rpy:4969
 translate schinese ep3_sage_lewd_label_6f9c4169:
 
     # sa "Hngnn..."
-    sa "哼哼..."
+    sa "哼哼……"
 
 # game/update3.rpy:4971
 translate schinese ep3_sage_lewd_label_67e79c15:
@@ -12934,7 +12934,7 @@ translate schinese ep3_sage_lewd_label_4cf6db39:
 translate schinese ep3_sage_lewd_label_21619159:
 
     # mc "Ok... Tap me if it's too hard..."
-    mc "好吧...如果太难就点我..."
+    mc "好吧……如果太难就点我……"
 
 # game/update3.rpy:4983
 translate schinese ep3_sage_lewd_label_2da9a25d:
@@ -12970,7 +12970,7 @@ translate schinese ep3_sage_lewd_label_d9feae45:
 translate schinese ep3_sage_lewd_label_76baf59c:
 
     # sa "*{i}Gurgle{/i}* *{i}Coughs{/i}*"
-    sa "*{i}Gurgle{/i}* *{i}咳嗽{/i}*"
+    sa "*{i}咕噜{/i}* *{i}咳嗽{/i}*"
 
 # game/update3.rpy:4998
 translate schinese ep3_sage_lewd_label_5a7549d5:
@@ -12994,13 +12994,13 @@ translate schinese ep3_sage_lewd_label_600d6af2:
 translate schinese ep3_sage_lewd_label_2d2e43a4_1:
 
     # sa "To feel sexual..."
-    sa "感受性..."
+    sa "感受性……"
 
 # game/update3.rpy:5004
 translate schinese ep3_sage_lewd_label_7f5f66a9_1:
 
     # mc "I can make you feel that anytime you want..."
-    mc "我可以让你随时感受到..."
+    mc "我可以让你随时感受到……"
 
 # game/update3.rpy:5006
 translate schinese ep3_sage_lewd_label_b80dd22d_1:
@@ -13018,7 +13018,7 @@ translate schinese ep3_sage_lewd_label_3f717302_1:
 translate schinese ep3_sage_lewd_label_ae7c980f_1:
 
     # sa "I'll think about it..."
-    sa "我会考虑一下..."
+    sa "我会考虑一下……"
 
 # game/update3.rpy:5023
 translate schinese ep3_rejectedSageLabel_a332d775:
@@ -13072,7 +13072,7 @@ translate schinese ep3_strip_club_intro_label_ac420c73:
 translate schinese ep3_strip_club_intro_label_ebdc07a2:
 
     # rs "Some ground rules..."
-    rs "一些基本规则..."
+    rs "一些基本规则……"
 
 # game/update3.rpy:5049
 translate schinese ep3_strip_club_intro_label_24917f17:
@@ -13090,7 +13090,7 @@ translate schinese ep3_strip_club_intro_label_b0dfd4c4:
 translate schinese ep3_strip_club_intro_label_b6ccd731:
 
     # tm "...it means that you must stop sucking on the stripper's titties."
-    tm "...这意味着你必须停止吮吸脱衣舞娘的奶子。"
+    tm "……这意味着你必须停止吮吸脱衣舞娘的奶子。"
 
 # game/update3.rpy:5053
 translate schinese ep3_strip_club_intro_label_e870d3d9:
@@ -13120,7 +13120,7 @@ translate schinese ep3_strip_club_intro_label_1be4f4d3:
 translate schinese ep3_strip_club_intro_label_5f80bc89:
 
     # rs "Stanley! Thanks for setting this up."
-    rs "斯坦利！感谢您设置此功能。"
+    rs "斯坦利！感谢你设置此功能。"
 
 # game/update3.rpy:5060
 translate schinese ep3_strip_club_intro_label_b19995d4:
@@ -13162,7 +13162,7 @@ translate schinese ep3_strip_club_intro_label_2ec37342:
 translate schinese ep3_strip_club_intro_label_14942987:
 
     # rs "Let me welcome you to..."
-    rs "让我欢迎您来到..."
+    rs "让我欢迎你来到……"
 
 # game/update3.rpy:5079
 translate schinese ep3_strip_club_intro_label_d7acdf4c:
@@ -13180,7 +13180,7 @@ translate schinese ep3_strip_club_intro_label_e0d8c589:
 translate schinese ep3_strip_club_intro_label_533ae037:
 
     # tm "...because our boy Rusty here got us the club all to ourselves, tonight!"
-    tm "...因为我们的男孩Rusty今晚为我们带来了俱乐部！"
+    tm "……因为我们的男孩Rusty今晚为我们带来了俱乐部！"
 
 # game/update3.rpy:5084
 translate schinese ep3_strip_club_intro_label_1467e1e6:
@@ -13210,13 +13210,13 @@ translate schinese ep3_strip_club_intro_label_3fb4844a:
 translate schinese ep3_wed_morning_label_e6752f31:
 
     # mc "...whoa!"
-    mc "...哇！"
+    mc "……哇！"
 
 # game/update3.rpy:5104
 translate schinese ep3_wed_morning_label_d89a46c9:
 
     # mc "Hmpf..."
-    mc "哼哼..."
+    mc "哼哼……"
 
 # game/update3.rpy:5105
 translate schinese ep3_wed_morning_label_46f5252a:
@@ -13282,7 +13282,7 @@ translate schinese ep3_wed_morning_label_2b412e24:
 translate schinese ep3_wed_morning_label_231f353d:
 
     # mc "*{i}Smacks{/i}* Uh...hello?"
-    mc "*{i}Smacks{/i}* 呃...你好？"
+    mc "*{i}吧唧{/i}* 呃……你好？"
 
 # game/update3.rpy:5135
 translate schinese ep3_wed_morning_label_2e622d0c:
@@ -13312,7 +13312,7 @@ translate schinese ep3_wed_morning_label_495ba589:
 translate schinese ep3_wed_morning_label_f3418b3b:
 
     # mc "It's just a hangover..."
-    mc "这只是宿醉..."
+    mc "这只是宿醉……"
 
 # game/update3.rpy:5153
 translate schinese ep3_wed_morning_label_c1d9b8b3:
@@ -13354,7 +13354,7 @@ translate schinese ep3_wed_morning_label_e00ac74c:
 translate schinese ep3_wed_morning_label_a4b428f3:
 
     # js "They saw that we've been drinking and yeah..."
-    js "他们看到我们一直在喝酒，是的..."
+    js "他们看到我们一直在喝酒，是的……"
 
 # game/update3.rpy:5169
 translate schinese ep3_wed_morning_label_e54adb2b:
@@ -13366,7 +13366,7 @@ translate schinese ep3_wed_morning_label_e54adb2b:
 translate schinese ep3_wed_morning_label_1fcb4401:
 
     # mc "Oh...I'm sorry for getting you into trouble."
-    mc "哦...很抱歉给你带来麻烦。"
+    mc "哦……很抱歉给你带来麻烦。"
 
 # game/update3.rpy:5176
 translate schinese ep3_wed_morning_label_ad02e6bf:
@@ -13378,7 +13378,7 @@ translate schinese ep3_wed_morning_label_ad02e6bf:
 translate schinese ep3_wed_morning_label_69c979c4:
 
     # js "...and my dad got to hear an earful about Monica..."
-    js "...我爸爸听到了很多关于莫妮卡的事情..."
+    js "……我爸爸听到了很多关于莫妮卡的事情……"
 
 # game/update3.rpy:5182
 translate schinese ep3_wed_morning_label_8444af2d:
@@ -13396,7 +13396,7 @@ translate schinese ep3_wed_morning_label_c215fb8a:
 translate schinese ep3_wed_morning_label_e74eff64:
 
     # js "Because I'm moving out..."
-    js "因为我要搬出去了..."
+    js "因为我要搬出去了……"
 
 # game/update3.rpy:5190
 translate schinese ep3_wed_morning_label_47309838:
@@ -13408,7 +13408,7 @@ translate schinese ep3_wed_morning_label_47309838:
 translate schinese ep3_wed_morning_label_2014d679:
 
     # js "I'm coming to you..."
-    js "我来找你了..."
+    js "我来找你了……"
 
 # game/update3.rpy:5197
 translate schinese ep3_wed_morning_label_1c55e9be:
@@ -13444,13 +13444,13 @@ translate schinese ep3_wed_morning_label_adf9b387:
 translate schinese ep3_wed_morning_label_6e600906:
 
     # js "It's just...you know..."
-    js "这只是...你知道..."
+    js "这只是……你知道……"
 
 # game/update3.rpy:5213
 translate schinese ep3_wed_morning_label_7bd24ba2:
 
     # js "The way I'm leaving my dad..."
-    js "我离开父亲的方式..."
+    js "我离开父亲的方式……"
 
 # game/update3.rpy:5214
 translate schinese ep3_wed_morning_label_a92537dc:
@@ -13462,7 +13462,7 @@ translate schinese ep3_wed_morning_label_a92537dc:
 translate schinese ep3_wed_morning_label_0ab05d0d:
 
     # mc "I don't know what to say..."
-    mc "我不知道该说什么..."
+    mc "我不知道该说什么……"
 
 # game/update3.rpy:5221
 translate schinese ep3_wed_morning_label_bfe5f770:
@@ -13474,13 +13474,13 @@ translate schinese ep3_wed_morning_label_bfe5f770:
 translate schinese ep3_wed_morning_label_2eaa5bee:
 
     # js "...except..."
-    js "...除了..."
+    js "……除了……"
 
 # game/update3.rpy:5224
 translate schinese ep3_wed_morning_label_070c14f1:
 
     # js "...tell me your dorm number."
-    js "...告诉我你的宿舍号码。"
+    js "……告诉我你的宿舍号码。"
 
 # game/update3.rpy:5229
 translate schinese ep3_wed_morning_label_fccb9547:
@@ -13492,7 +13492,7 @@ translate schinese ep3_wed_morning_label_fccb9547:
 translate schinese ep3_wed_morning_label_85f6511c:
 
     # js "Well, I was thinking..."
-    js "嗯，我在想..."
+    js "嗯，我在想……"
 
 # game/update3.rpy:5233
 translate schinese ep3_wed_morning_label_8a054709:
@@ -13546,7 +13546,7 @@ translate schinese ep3_wed_morning_label_375e5861:
 translate schinese ep3_wed_morning_label_98cb7f3f:
 
     # js "And, hey... I get it..."
-    js "而且，嘿...我明白了..."
+    js "而且，嘿……我明白了……"
 
 # game/update3.rpy:5259
 translate schinese ep3_wed_morning_label_341c82a4:
@@ -13558,13 +13558,13 @@ translate schinese ep3_wed_morning_label_341c82a4:
 translate schinese ep3_wed_morning_label_53c7e85c:
 
     # js "I'm not surprised if you've started dating others."
-    js "如果您开始与其他人约会，我并不感到惊讶。"
+    js "如果你开始与其他人约会，我并不感到惊讶。"
 
 # game/update3.rpy:5262
 translate schinese ep3_wed_morning_label_f8fb2cdc:
 
     # mc "I care about you a lot...but, yeah, the boyfriend part..."
-    mc "我很关心你...但是，是的，男朋友的部分..."
+    mc "我很关心你……但是，是的，男朋友的部分……"
 
 # game/update3.rpy:5263
 translate schinese ep3_wed_morning_label_75378782:
@@ -13576,13 +13576,13 @@ translate schinese ep3_wed_morning_label_75378782:
 translate schinese ep3_wed_morning_label_f4d8df0a:
 
     # js "When I get there...I promise..."
-    js "当我到达那里时...我保证..."
+    js "当我到达那里时……我保证……"
 
 # game/update3.rpy:5266
 translate schinese ep3_wed_morning_label_3169b34d:
 
     # js "I'll put my cards on the table..."
-    js "我会把我的牌放在桌子上..."
+    js "我会把我的牌放在桌子上……"
 
 # game/update3.rpy:5267
 translate schinese ep3_wed_morning_label_492115f3:
@@ -13654,7 +13654,7 @@ translate schinese ep3_wed_morning_label_6666da55:
 translate schinese ep3_wed_morning_label_84b7a515:
 
     # mc "No way..."
-    mc "决不..."
+    mc "决不……"
 
 # game/update3.rpy:5302
 translate schinese ep3_wed_morning_label_ba87eb5f:
@@ -13702,7 +13702,7 @@ translate schinese ep3_wed_morning_label_a9fb09a1:
 translate schinese ep3_wed_morning_label_5e7e3922:
 
     # js "Bye..."
-    js "再见..."
+    js "再见……"
 
 # game/update3.rpy:5330
 translate schinese ep3_wed_morning_label_6036397f:
@@ -13738,13 +13738,13 @@ translate schinese ep3_wed_morning_label_d0253d58:
 translate schinese ep3_wed_morning_label_feb63dfe:
 
     # my "{i}If you're wondering why you slept naked under the bed...{/i}"
-    my "{i}如果你想知道为什么你裸睡在床底下...{/i}"
+    my "{i}如果你想知道为什么你裸睡在床底下……{/i}"
 
 # game/update3.rpy:5341
 translate schinese ep3_wed_morning_label_277011c5:
 
     # my "{i}...so do I.{/i}"
-    my "{i}... I.{/i}也是如此"
+    my "{i}…… I.{/i}也是如此"
 
 # game/update3.rpy:5342
 translate schinese ep3_wed_morning_label_a9bca14e:
@@ -13762,7 +13762,7 @@ translate schinese ep3_wed_morning_label_445537a8:
 translate schinese ep3_wed_morning_label_312f512e:
 
     # my "{i}In case (read hopefully) you have forgotten about the other thing you did...then we're good.{/i}"
-    my "{i}万一（希望阅读）您忘记了您所做的其他事情...那么我们就很好。{/i}"
+    my "{i}万一（希望阅读）你忘记了你所做的其他事情……那么我们就很好。{/i}"
 
 # game/update3.rpy:5345
 translate schinese ep3_wed_morning_label_4dbf06ab:
@@ -13816,25 +13816,25 @@ translate schinese ep3_lib_study_label_874c3955:
 translate schinese ep3_lib_study_label_7dc20311:
 
     # "+10%% score on your next English test.\nYour total bonus for the next test is [bonusPercentageEnglish]%%."
-    "+10%%下次英语测试得分。\n您下次测试的总奖金为[bonusPercentageEnglish]%%。"
+    "+10%%下次英语测试得分。\n你下次测试的总奖金为[bonusPercentageEnglish]%%。"
 
 # game/update3.rpy:5371
 translate schinese ep3_lib_study_label_f3f698d4:
 
     # "+10%% score on your next Math test.\nYour total bonus for the next test is [bonusPercentageMath]%%."
-    "+10%%下一次数学测试的分数。\n您下一次测试的总奖金为[bonusPercentageMath]%%。"
+    "+10%%下一次数学测试的分数。\n你下一次测试的总奖金为[bonusPercentageMath]%%。"
 
 # game/update3.rpy:5374
 translate schinese ep3_lib_study_label_7b599f32:
 
     # "+10%% score on your next Gender Studies test.\nYour total bonus for the next test is [bonusPercentageGender]%%."
-    "+10%%下一次性别研究测试的分数。\n您下一次测试的总奖金为[bonusPercentageGender]%%。"
+    "+10%%下一次性别研究测试的分数。\n你下一次测试的总奖金为[bonusPercentageGender]%%。"
 
 # game/update3.rpy:5375
 translate schinese ep3_lib_study_label_ae6e866d:
 
     # mc "(Ok... I understand {b}that{/b}.)"
-    mc "（好吧...我明白{b}就是{/b}。）"
+    mc "（好吧……我明白{b}就是{/b}。）"
 
 # game/update3.rpy:5376
 translate schinese ep3_lib_study_label_20336396:
@@ -13876,19 +13876,19 @@ translate schinese ep3_lib_study_label_ad58f063:
 translate schinese ep3_lib_study_label_7dc20311_1:
 
     # "+10%% score on your next English test.\nYour total bonus for the next test is [bonusPercentageEnglish]%%."
-    "+10%%下次英语测试得分。\n您下次测试的总奖金为[bonusPercentageEnglish]%%。"
+    "+10%%下次英语测试得分。\n你下次测试的总奖金为[bonusPercentageEnglish]%%。"
 
 # game/update3.rpy:5391
 translate schinese ep3_lib_study_label_f3f698d4_1:
 
     # "+10%% score on your next Math test.\nYour total bonus for the next test is [bonusPercentageMath]%%."
-    "+10%%下一次数学测试的分数。\n您下一次测试的总奖金为[bonusPercentageMath]%%。"
+    "+10%%下一次数学测试的分数。\n你下一次测试的总奖金为[bonusPercentageMath]%%。"
 
 # game/update3.rpy:5394
 translate schinese ep3_lib_study_label_7b599f32_1:
 
     # "+10%% score on your next Gender Studies test.\nYour total bonus for the next test is [bonusPercentageGender]%%."
-    "+10%%下一次性别研究测试的分数。\n您下一次测试的总奖金为[bonusPercentageGender]%%。"
+    "+10%%下一次性别研究测试的分数。\n你下一次测试的总奖金为[bonusPercentageGender]%%。"
 
 # game/update3.rpy:5395
 translate schinese ep3_lib_study_label_e9a2c97b:
@@ -13930,7 +13930,7 @@ translate schinese ep3_lib_study_label_7ad532d1:
 translate schinese ep3_lib_study_label_a74d9448:
 
     # isa "{i}He's here. Just letting you know...{/i}"
-    isa "{i}他来了。只是让你知道...{/i}"
+    isa "{i}他来了。只是让你知道……{/i}"
 
 # game/update3.rpy:5424
 translate schinese ep3_lib_study_label_b84045c2:
@@ -13948,13 +13948,13 @@ translate schinese ep3_lib_study_label_44d7103b:
 translate schinese ep3_lib_study_label_fb76e510:
 
     # ji "Good morning..."
-    ji "早上好..."
+    ji "早上好……"
 
 # game/update3.rpy:5428
 translate schinese ep3_lib_study_label_74fbff36:
 
     # mc "Morning..."
-    mc "早晨..."
+    mc "早晨……"
 
 # game/update3.rpy:5429
 translate schinese ep3_lib_study_label_a5ee2060:
@@ -14020,7 +14020,7 @@ translate schinese ep3_lib_study_label_8954d56c:
 translate schinese ep3_lib_study_label_2418cc84:
 
     # mc "I shouldn't have reacted the way I did..."
-    mc "我不应该有这样的反应..."
+    mc "我不应该有这样的反应……"
 
 # game/update3.rpy:5449
 translate schinese ep3_lib_study_label_222d25a3:
@@ -14080,7 +14080,7 @@ translate schinese ep3_lib_study_label_c253d9e6:
 translate schinese ep3_lib_study_label_d1f7c08b:
 
     # mc "Did you ever take any Gender Studies class?"
-    mc "您上过性别研究课程吗？"
+    mc "你上过性别研究课程吗？"
 
 # game/update3.rpy:5469
 translate schinese ep3_lib_study_label_4773cab7:
@@ -14104,13 +14104,13 @@ translate schinese ep3_lib_study_label_07391a97:
 translate schinese ep3_lib_study_label_d9fe90f3:
 
     # ji "Are you planning on taking an economics class?"
-    ji "您打算参加经济学课程吗？"
+    ji "你打算参加经济学课程吗？"
 
 # game/update3.rpy:5476
 translate schinese ep3_lib_study_label_766096d8:
 
     # mc "Hm...no? I'm going to be an engineer. Should I be taking economics?"
-    mc "嗯...不？我要成为一名工程师。我应该选经济学吗？"
+    mc "嗯……不？我要成为一名工程师。我应该选经济学吗？"
 
 # game/update3.rpy:5478
 translate schinese ep3_lib_study_label_40819b3d:
@@ -14122,13 +14122,13 @@ translate schinese ep3_lib_study_label_40819b3d:
 translate schinese ep3_lib_study_label_f960351d:
 
     # ji "If you ever want to start your own business or get ahead in a field of work..."
-    ji "如果您想自己创业或在某个工作领域取得成功......"
+    ji "如果你想自己创业或在某个工作领域取得成功......"
 
 # game/update3.rpy:5480
 translate schinese ep3_lib_study_label_2d1522e1:
 
     # ji "...a few basic courses in economics could help you a lot."
-    ji "...一些经济学基础课程可以对你有很大帮助。"
+    ji "……一些经济学基础课程可以对你有很大帮助。"
 
 # game/update3.rpy:5482
 translate schinese ep3_lib_study_label_6e42e2bc:
@@ -14278,7 +14278,7 @@ translate schinese ep3_lib_dng_label_230cf092:
 translate schinese ep3_lib_dng_label_392af8d7:
 
     # mc "I'm not sure..."
-    mc "我不知道..."
+    mc "我不知道……"
 
 # game/update3.rpy:5561
 translate schinese ep3_lib_dng_label_f9d44c79:
@@ -14290,7 +14290,7 @@ translate schinese ep3_lib_dng_label_f9d44c79:
 translate schinese ep3_lib_dng_label_cc3c9278:
 
     # mc "Let us in on the {i}fun{/i}."
-    mc "让我们来看看{i}fun{/i}。"
+    mc "也让我们{i}乐呵乐呵{/i}。"
 
 # game/update3.rpy:5565
 translate schinese ep3_lib_dng_label_69c8d22a:
@@ -14374,7 +14374,7 @@ translate schinese ep3_dng_game_b439f8f2:
 translate schinese ep3_dng_game_0eb449c6:
 
     # mg "Now...let's play!"
-    mg "现在...让我们玩吧！"
+    mg "现在……让我们玩吧！"
 
 # game/update3.rpy:5592
 translate schinese ep3_dng_game_2f394dd8:
@@ -14500,7 +14500,7 @@ translate schinese ep3_dng_game_a1da8b89:
 translate schinese ep3_dng_game_2db57e2f:
 
     # mc "I don't know... I also greet the party..."
-    mc "我不知道...我也向聚会打招呼..."
+    mc "我不知道……我也向聚会打招呼……"
 
 # game/update3.rpy:5620
 translate schinese ep3_dng_game_9ac44c5d:
@@ -14530,7 +14530,7 @@ translate schinese ep3_dng_game_86f03042:
 translate schinese ep3_dng_game_39003415:
 
     # mg "{i}Spanking Sally's ass...that requires a roll of at least a 3.{/i}"
-    mg "{i}打莎莉的屁股...需要至少 3.{/i}"
+    mg "{i}打莎莉的屁股……需要至少 3.{/i}"
 
 # game/update3.rpy:5628
 translate schinese ep3_dng_game_b4a1a0bc:
@@ -14542,13 +14542,13 @@ translate schinese ep3_dng_game_b4a1a0bc:
 translate schinese ep3_dng_game_c3f71192:
 
     # sy "Ouch!"
-    sy "哎哟!"
+    sy "哎哟！"
 
 # game/update3.rpy:5635
 translate schinese ep3_dng_game_fa291d63:
 
     # mc "I...flirt with the elf."
-    mc "我...和精灵调情。"
+    mc "我……和精灵调情。"
 
 # game/update3.rpy:5637
 translate schinese ep3_dng_game_ecab348e:
@@ -14620,7 +14620,7 @@ translate schinese ep3_dng_game_3c69a8a5:
 translate schinese ep3_dng_game_d0f45ad1:
 
     # mg "{i}Ouch...you roll a 4.{/i}"
-    mg "{i}Ouch...你掷出4.{/i}"
+    mg "{i}Ouch……你掷出4.{/i}"
 
 # game/update3.rpy:5663
 translate schinese ep3_dng_game_9f3c5690:
@@ -14662,13 +14662,13 @@ translate schinese ep3_dng_game_b2df6271:
 translate schinese ep3_dng_game_b596f27b:
 
     # ji "I..."
-    ji "我..."
+    ji "我……"
 
 # game/update3.rpy:5675
 translate schinese ep3_dng_game_6ae80e66:
 
     # ji "...heal [name] with...a spell?"
-    ji "...用...咒语治疗[name]？"
+    ji "……用……咒语治疗[name]？"
 
 # game/update3.rpy:5676
 translate schinese ep3_dng_game_395a611e:
@@ -14680,7 +14680,7 @@ translate schinese ep3_dng_game_395a611e:
 translate schinese ep3_dng_game_19ce1e15:
 
     # mg "{i}Rolling the die...{/i}"
-    mg "{i}滚动模具...{/i}"
+    mg "{i}滚动模具……{/i}"
 
 # game/update3.rpy:5680
 translate schinese ep3_dng_game_78e382f1:
@@ -14722,7 +14722,7 @@ translate schinese ep3_dng_game_77ca2d86:
 translate schinese ep3_dng_game_19ce1e15_1:
 
     # mg "{i}Rolling the die...{/i}"
-    mg "{i}滚动模具...{/i}"
+    mg "{i}滚动模具……{/i}"
 
 # game/update3.rpy:5690
 translate schinese ep3_dng_game_d47b769a:
@@ -14740,7 +14740,7 @@ translate schinese ep3_dng_game_671bc04f:
 translate schinese ep3_dng_game_4d27af87:
 
     # mg "{i}And so we come to [name] the brute...{/i}"
-    mg "{i}所以我们来到[name]蛮...{/i}"
+    mg "{i}所以我们来到[name]蛮……{/i}"
 
 # game/update3.rpy:5695
 translate schinese ep3_dng_game_c7b5ca54:
@@ -14800,7 +14800,7 @@ translate schinese ep3_dng_game_989b9536:
 translate schinese ep3_dng_game_cd12a483:
 
     # mc "Whoops..."
-    mc "哎呀..."
+    mc "哎呀……"
 
 # game/update3.rpy:5715
 translate schinese ep3_dng_game_00e23247:
@@ -14830,13 +14830,13 @@ translate schinese ep3_dng_game_c1223c90:
 translate schinese ep3_dng_game_7971ae12:
 
     # mc "I spank Sally, again. Hard."
-    mc "我又打了莎莉屁股。难的。"
+    mc "我又狠狠拍了莎莉的屁股。"
 
 # game/update3.rpy:5726
 translate schinese ep3_dng_game_e65efb83:
 
     # mc "I spank Sally. Hard."
-    mc "我打了莎莉屁股。难的。"
+    mc "我狠狠拍了莎莉的屁股。"
 
 # game/update3.rpy:5730
 translate schinese ep3_dng_game_68418484:
@@ -14878,13 +14878,13 @@ translate schinese ep3_dng_game_e907bbc9:
 translate schinese ep3_dng_game_29cadf74:
 
     # mg "I think it's time for classes..."
-    mg "我想该上课了..."
+    mg "我想该上课了……"
 
 # game/update3.rpy:5746
 translate schinese ep3_dng_game_e1d8a44f:
 
     # mg "Let's go..."
-    mg "我们走吧..."
+    mg "我们走吧……"
 
 # game/update3.rpy:5748
 translate schinese ep3_dng_game_46b67403:
@@ -14938,7 +14938,7 @@ translate schinese ep3_dng_game_31bc3bd4:
 translate schinese ep3_dng_game_6a9a0ac6:
 
     # mc "Haha... My pleasure."
-    mc "哈哈...我的荣幸。"
+    mc "哈哈……我的荣幸。"
 
 # game/update3.rpy:5772
 translate schinese ep3_sage_hall_label_822d1110:
@@ -14974,7 +14974,7 @@ translate schinese ep3_sage_hall_label_e1324b6c:
 translate schinese ep3_sage_hall_label_96466da9:
 
     # mn "I'm Mona... I'm in your English and Math classes."
-    mn "我是Mona...我在你们的英语和数学课上。"
+    mn "我是Mona……我在你们的英语和数学课上。"
 
 # game/update3.rpy:5781
 translate schinese ep3_sage_hall_label_d607ca69:
@@ -15076,25 +15076,25 @@ translate schinese ep3_camila_lewd_d2b5788e:
 translate schinese ep3_camila_lewd_b93051d8:
 
     # mn "*{i}Whispers{/i}* Stop it! What are you doing?"
-    mn "*{i}Whispers{/i}* 停下来！你在干什么？"
+    mn "*{i}低语{/i}* 停下来！你在干什么？"
 
 # game/update3.rpy:5836
 translate schinese ep3_camila_lewd_f00a7b3f:
 
     # cam "*{i}Whispers{/i}* Shush! I'm just checking something..."
-    cam "*{i}耳语{/i}* 嘘！我只是在检查一些东西..."
+    cam "*{i}耳语{/i}* 嘘！我只是在检查一些东西……"
 
 # game/update3.rpy:5837
 translate schinese ep3_camila_lewd_80348ebd:
 
     # mn "*{i}Whispers{/i}* You mean you're checking his thing!"
-    mn "*{i}Whispers{/i}* 你的意思是你正在检查他的东西！"
+    mn "*{i}低语{/i}* 你的意思是你正在检查他的东西！"
 
 # game/update3.rpy:5838
 translate schinese ep3_camila_lewd_f91093fa:
 
     # cam "*{i}Whispers{/i}* Yeah, whatever!"
-    cam "*{i}Whispers{/i}* 是的，无论如何！"
+    cam "*{i}低语{/i}* 是的，无论如何！"
 
 # game/update3.rpy:5845
 translate schinese ep3_camila_lewd_2a7f2176:
@@ -15130,7 +15130,7 @@ translate schinese ep3_camila_lewd_c36cc7b0:
 translate schinese ep3_camila_lewd_7fd15e3e:
 
     # cam "Almost..."
-    cam "几乎..."
+    cam "几乎……"
 
 # game/update3.rpy:5858
 translate schinese ep3_camila_lewd_faf4bdba:
@@ -15142,7 +15142,7 @@ translate schinese ep3_camila_lewd_faf4bdba:
 translate schinese ep3_camila_lewd_ad875206:
 
     # cam "I'm sorry..."
-    cam "对不起..."
+    cam "对不起……"
 
 # game/update3.rpy:5864
 translate schinese ep3_camila_lewd_6539adea:
@@ -15256,7 +15256,7 @@ translate schinese ep3_camila_lewd_9cf212fd:
 translate schinese ep3_camila_lewd_b76bc022:
 
     # "*{i}Unzips pants{i}*"
-    "*{i}拉开裤子拉链{/i}*"
+    "*{i}拉开裤子拉链{i}*"
 
 # game/update3.rpy:5902
 translate schinese ep3_camila_lewd_bd46c552:
@@ -15280,7 +15280,7 @@ translate schinese ep3_camila_lewd_5ee9eaa1:
 translate schinese ep3_camila_lewd_a8a3b2e4:
 
     # mc "Perfect..."
-    mc "完美的..."
+    mc "完美的……"
 
 # game/update3.rpy:5907
 translate schinese ep3_camila_lewd_1b13adfd:
@@ -15298,13 +15298,13 @@ translate schinese ep3_camila_lewd_034d87d1:
 translate schinese ep3_camila_lewd_ec954a59:
 
     # mc "I don't know... What do you think Camila?"
-    mc "我不知道...Camila你觉得怎么样？"
+    mc "我不知道……Camila你觉得怎么样？"
 
 # game/update3.rpy:5912
 translate schinese ep3_camila_lewd_ea7e456e:
 
     # cam "I want it..."
-    cam "我要它..."
+    cam "我要它……"
 
 # game/update3.rpy:5913
 translate schinese ep3_camila_lewd_1bedb2d5:
@@ -15352,19 +15352,19 @@ translate schinese ep3_camila_lewd_156785ba:
 translate schinese ep3_camila_lewd_d6c5cc66:
 
     # mn "Haha! I'm gonna get you for this..."
-    mn "哈哈！我会为了这个而找你..."
+    mn "哈哈！我会为了这个而找你……"
 
 # game/update3.rpy:5923
 translate schinese ep3_camila_lewd_ee71b9bd:
 
     # mn "Ok... Do it..."
-    mn "好吧...做吧..."
+    mn "好吧……做吧……"
 
 # game/update3.rpy:5927
 translate schinese ep3_camila_lewd_b59712ee:
 
     # mn "*{i}Moans{/i}* Oh! Damn! Hngh..."
-    mn "*{i}Moans{/i}* 哦！该死！嗯..."
+    mn "*{i}呻吟{/i}* 哦！该死！嗯……"
 
 # game/update3.rpy:5929
 translate schinese ep3_camila_lewd_b71fe291:
@@ -15376,19 +15376,19 @@ translate schinese ep3_camila_lewd_b71fe291:
 translate schinese ep3_camila_lewd_e28864ab:
 
     # mc "Shh! You don't want anyone to overhear us..."
-    mc "嘘！你不想让任何人无意中听到我们的声音..."
+    mc "嘘！你不想让任何人无意中听到我们的声音……"
 
 # game/update3.rpy:5939
 translate schinese ep3_camila_mona_loop_label_83aea348:
 
     # mc "Here we go... I'm gonna give you what you wanted..."
-    mc "来吧...我会给你你想要的..."
+    mc "来吧……我会给你你想要的……"
 
 # game/update3.rpy:5941
 translate schinese ep3_camila_mona_loop_label_d3dd590e:
 
     # cam "*{i}Moans{/i}* Yes!!! [mc_camila]!"
-    cam "*{i}Moans{/i}*是的！ ！ ！[mc_camila]！"
+    cam "*{i}呻吟{/i}*是的！ ！ ！[mc_camila]！"
 
 # game/update3.rpy:5942
 translate schinese ep3_camila_mona_loop_label_cd9f997a:
@@ -15418,7 +15418,7 @@ translate schinese ep3_camila_mona_loop_label_c3725114:
 translate schinese ep3_camila_mona_loop_label_4a0198e8:
 
     # mc "That's it [camila]... Stay silent and feel all of me."
-    mc "就是这样[camila]...保持沉默，感受我的全部。"
+    mc "就是这样[camila]……保持沉默，感受我的全部。"
 
 # game/update3.rpy:5957
 translate schinese ep3_camila_mona_loop_label_a171fc57:
@@ -15436,7 +15436,7 @@ translate schinese ep3_camila_mona_loop_label_09186d10:
 translate schinese ep3_camila_mona_loop_label_3a97c947:
 
     # mc "I'm not gonna stop..."
-    mc "我不会停止..."
+    mc "我不会停止……"
 
 # game/update3.rpy:5960
 translate schinese ep3_camila_mona_loop_label_31dc3fd7:
@@ -15484,25 +15484,24 @@ translate schinese ep3_camila_mona_loop_label_22dc6331:
 translate schinese ep3_camila_mona_loop_label_4cdca98b:
 
     # mn "Mmm... Hah, I wish."
-    mn "嗯...哈，我希望。"
+    mn "嗯……哈，我希望。"
 
 # game/update3.rpy:5992
 translate schinese ep3_camila_mona_loop_label_b8a732f2:
 
     # mc "Ok... I'm cumming!"
-    mc "好吧...我射了！"
+    mc "好吧……我射了！"
 
 # game/update3.rpy:6028
 translate schinese ep3_camila_mona_loop_label_ddba874e:
-
     # mc "Ahhh! That was so fucking good!"
-    mc "啊啊！那真是太好了！"
+    mc "啊啊！爽死了！"
 
 # game/update3.rpy:6031
 translate schinese ep3_camila_mona_loop_label_22703d9d:
 
     # mc "Get ready, girls! I'm gonna cum..."
-    mc "准备好吧，女孩们！我要射了..."
+    mc "准备好吧，女孩们！我要射了……"
 
 # game/update3.rpy:6033
 translate schinese ep3_camila_mona_loop_label_217de8d8:
@@ -15520,7 +15519,7 @@ translate schinese ep3_camila_mona_loop_label_f7660305:
 translate schinese ep3_camila_mona_loop_label_a9e63765:
 
     # cam "Mmm..."
-    cam "嗯..."
+    cam "嗯……"
 
 # game/update3.rpy:6038
 translate schinese ep3_camila_mona_loop_label_079b0e8d:
@@ -15544,7 +15543,7 @@ translate schinese ep3_camila_mona_loop_label_9a293b3e:
 translate schinese ep3_camila_mona_loop_label_8dde568e:
 
     # mn "Oh! You wouldn't happen to know where to find a rainbow-colored umbrella?"
-    mn "哦！您不知道在哪里可以找到彩虹色的雨伞吗？"
+    mn "哦！你不知道在哪里可以找到彩虹色的雨伞吗？"
 
 # game/update3.rpy:6054
 translate schinese ep3_camila_mona_loop_label_8eaf8bca:
@@ -15568,13 +15567,13 @@ translate schinese ep3_camila_mona_loop_label_a5fa314b:
 translate schinese ep3_camila_mona_loop_label_ffd7534e:
 
     # mn "Anyway..."
-    mn "反正..."
+    mn "反正……"
 
 # game/update3.rpy:6059
 translate schinese ep3_camila_mona_loop_label_c873b3ce:
 
     # mn "Thanks for the help!"
-    mn "感谢您的帮助！"
+    mn "感谢你的帮助！"
 
 # game/update3.rpy:6067
 translate schinese ep3_camila_mona_loop_label_31f8cf56:
@@ -15586,7 +15585,7 @@ translate schinese ep3_camila_mona_loop_label_31f8cf56:
 translate schinese ep3_camila_mona_loop_label_745f3e4e:
 
     # mn "Dammit..."
-    mn "该死的..."
+    mn "该死的……"
 
 # game/update3.rpy:6070
 translate schinese ep3_camila_mona_loop_label_3eb45d53:
@@ -15598,7 +15597,7 @@ translate schinese ep3_camila_mona_loop_label_3eb45d53:
 translate schinese ep3_english_label_c7d02dc1:
 
     # de "Hey..."
-    de "嘿..."
+    de "嘿……"
 
 # game/update3.rpy:6079
 translate schinese ep3_english_label_3ca8e4be:
@@ -15628,7 +15627,7 @@ translate schinese ep3_english_label_13c2b3c2:
 translate schinese ep3_english_label_26cc97c7:
 
     # mc "That's so gross..."
-    mc "那太恶心了..."
+    mc "那太恶心了……"
 
 # game/update3.rpy:6097
 translate schinese ep3_english_label_b514a7c4:
@@ -15784,19 +15783,19 @@ translate schinese ep3_english_label_caac27c0:
 translate schinese ep3_after_english_test_a73d4d51:
 
     # an "*{i}Whispers{/i}* Dawe...don't be stupid. Put that away."
-    an "*{i}Whispers{/i}* Dawe...别傻了。把它收起来。"
+    an "*{i}低语{/i}* Dawe……别傻了。把它收起来。"
 
 # game/update3.rpy:6192
 translate schinese ep3_after_english_test_5c5dc4fd:
 
     # dw "*{i}Whispers{/i}* I'm not being stupid, I'm being crafty."
-    dw "*{i}Whispers{/i}* 我不是愚蠢，我只是狡猾。"
+    dw "*{i}低语{/i}* 我不是愚蠢，我只是狡猾。"
 
 # game/update3.rpy:6193
 translate schinese ep3_after_english_test_7713724f:
 
     # an "*{i}Whispers{/i}* Can you look up number four for me?"
-    an "*{i}Whispers{/i}* 你能帮我查一下第四个吗？"
+    an "*{i}低语{/i}* 你能帮我查一下第四个吗？"
 
 # game/update3.rpy:6194
 translate schinese ep3_after_english_test_ee46b304:
@@ -15880,7 +15879,7 @@ translate schinese ep3_after_english_test_b427af4e:
 translate schinese ep3_after_english_test_b28b6a9b:
 
     # mc "Or this prank is no good..."
-    mc "或者说这个恶作剧并不好..."
+    mc "或者说这个恶作剧并不好……"
 
 # game/update3.rpy:6226
 translate schinese ep3_after_english_test_c5cda84d:
@@ -15892,7 +15891,7 @@ translate schinese ep3_after_english_test_c5cda84d:
 translate schinese ep3_after_english_test_a8dd85bb:
 
     # mc "Seriously? You went through with that?"
-    mc "严重地？你经历过那件事吗？"
+    mc "你认真的吗？你真把那事做了？"
 
 # game/update3.rpy:6228
 translate schinese ep3_after_english_test_4a4d182c:
@@ -15922,7 +15921,7 @@ translate schinese ep3_after_english_test_ac1a71e3:
 translate schinese ep3_after_english_test_cb4ea27c:
 
     # mc "Seriously? That one?"
-    mc "严重地？那个？"
+    mc "认真的吗？是那个？"
 
 # game/update3.rpy:6234
 translate schinese ep3_after_english_test_002a9ec0:
@@ -15952,7 +15951,7 @@ translate schinese ep3_after_english_test_6bb6023d:
 translate schinese ep3_after_english_test_a6576f37:
 
     # mc "This is so bad..."
-    mc "这太糟糕了..."
+    mc "这太糟糕了……"
 
 # game/update3.rpy:6240
 translate schinese ep3_after_english_test_65816798:
@@ -16042,7 +16041,7 @@ translate schinese ep3_after_english_test_f17d617f:
 translate schinese ep3_after_english_test_54d103e1:
 
     # dw "Hngh..."
-    dw "嗯..."
+    dw "嗯……"
 
 # game/update3.rpy:6263
 translate schinese ep3_after_english_test_528d0d05:
@@ -16102,7 +16101,7 @@ translate schinese ep3_gender_studies_label_7a694d81:
 translate schinese ep3_gender_studies_label_c4fec48b:
 
     # mc "Speak of the devil..."
-    mc "说起恶魔..."
+    mc "说起恶魔……"
 
 # game/update3.rpy:6288
 translate schinese ep3_gender_studies_label_6aa15c15:
@@ -16282,7 +16281,7 @@ translate schinese ep3_gender_studies_label_97807e51:
 translate schinese ep3_gender_studies_label_68d15b45:
 
     # de "You know...the really red and big ones."
-    de "你知道...真正的红色和大的。"
+    de "你知道……真正的红色和大的。"
 
 # game/update3.rpy:6344
 translate schinese ep3_gender_studies_label_2718ff05:
@@ -16294,7 +16293,7 @@ translate schinese ep3_gender_studies_label_2718ff05:
 translate schinese ep3_gender_studies_label_aaad0c6a:
 
     # de "You know what...? I don't recall."
-    de "你知道吗… ？我不记得了。"
+    de "你知道吗…… ？我不记得了。"
 
 # game/update3.rpy:6347
 translate schinese ep3_gender_studies_label_62c2a692:
@@ -16336,13 +16335,13 @@ translate schinese ep3_gender_studies_label_f805c146:
 translate schinese ep3_gender_studies_label_66febb8c:
 
     # de "Huh... That's an excellent argument!"
-    de "嗯...这是一个很好的论点！"
+    de "嗯……这是一个很好的论点！"
 
 # game/update3.rpy:6364
 translate schinese ep3_gender_studies_label_d2e4e85b:
 
     # de "I can tell that you've read the literature for this!"
-    de "我可以看出您已经阅读了这方面的文献！"
+    de "我可以看出你已经阅读了这方面的文献！"
 
 # game/update3.rpy:6366
 translate schinese ep3_gender_studies_label_30dd028c:
@@ -16372,7 +16371,7 @@ translate schinese ep3_gender_studies_label_776ea26b:
 translate schinese ep3_gender_studies_label_552ca24d:
 
     # de "Pussy is indeed pussy."
-    de "猫确实是猫。"
+    de "屄就是屄。"
 
 # game/update3.rpy:6374
 translate schinese ep3_gender_studies_label_a96c21e4:
@@ -16426,7 +16425,7 @@ translate schinese ep3_gender_studies_label_4526bdb2:
 translate schinese ep3_gender_studies_label_48fd09a8:
 
     # de "Kill me. Someone please...just kill me."
-    de "杀了我。请有人...杀了我吧。"
+    de "杀了我。请有人……杀了我吧。"
 
 # game/update3.rpy:6391
 translate schinese ep3_gender_studies_label_c8d2d413:
@@ -16438,7 +16437,7 @@ translate schinese ep3_gender_studies_label_c8d2d413:
 translate schinese ep3_gender_studies_label_210b17bc:
 
     # mc "It seems so..."
-    mc "看来是这样..."
+    mc "看来是这样……"
 
 # game/update3.rpy:6393
 translate schinese ep3_gender_studies_label_cbd77bd1:
@@ -16456,13 +16455,13 @@ translate schinese ep3_gender_studies_label_63db14a4:
 translate schinese ep3_gender_studies_label_4d5952e3:
 
     # ja "Take a seat..."
-    ja "坐吧..."
+    ja "坐吧……"
 
 # game/update3.rpy:6401
 translate schinese ep3_gender_studies_label_2232ac02:
 
     # ja "So...[name]."
-    ja "所以...[name]。"
+    ja "所以……[name]。"
 
 # game/update3.rpy:6402
 translate schinese ep3_gender_studies_label_8b7a52d1:
@@ -16510,7 +16509,7 @@ translate schinese ep3_gender_studies_label_11e72d12:
 translate schinese ep3_gender_studies_label_587878d0:
 
     # mc "Um... Gender is like male or female...right?"
-    mc "嗯...性别就像男性或女性...对吧？"
+    mc "嗯……性别就像男性或女性……对吧？"
 
 # game/update3.rpy:6416
 translate schinese ep3_gender_studies_label_94ccf161:
@@ -16522,7 +16521,7 @@ translate schinese ep3_gender_studies_label_94ccf161:
 translate schinese ep3_gender_studies_label_719b3968:
 
     # mc "Sorry... No, this week has been crazy, with all the hazing I didn't find time to do it."
-    mc "抱歉...不，这周太疯狂了，因为所有的欺辱，我没有时间去做这件事。"
+    mc "抱歉……不，这周太疯狂了，因为所有的欺辱，我没有时间去做这件事。"
 
 # game/update3.rpy:6420
 translate schinese ep3_gender_studies_label_6f916c4f:
@@ -16534,7 +16533,7 @@ translate schinese ep3_gender_studies_label_6f916c4f:
 translate schinese ep3_gender_studies_label_8d00e738:
 
     # ja "You said gender is male or female. In which ways?"
-    ja "您说的性别是男性或女性。在哪些方面？"
+    ja "你说的性别是男性或女性。在哪些方面？"
 
 # game/update3.rpy:6423
 translate schinese ep3_gender_studies_label_78053a1b:
@@ -16588,7 +16587,7 @@ translate schinese ep3_gender_studies_label_e1fcef5a:
 translate schinese ep3_gender_studies_label_de0f2ccc:
 
     # ja "Females have vaginas..."
-    ja "女性有阴道..."
+    ja "女性有阴道……"
 
 # game/update3.rpy:6440
 translate schinese ep3_gender_studies_label_b323e448:
@@ -16600,7 +16599,7 @@ translate schinese ep3_gender_studies_label_b323e448:
 translate schinese ep3_gender_studies_label_1bd710e4:
 
     # ja "And males have..."
-    ja "而男性则有..."
+    ja "而男性则有……"
 
 # game/update3.rpy:6443
 translate schinese ep3_gender_studies_label_7651c4f4:
@@ -16636,13 +16635,13 @@ translate schinese ep3_gender_studies_label_57388d28:
 translate schinese ep3_gender_studies_label_8b6d479a:
 
     # ja "You should spend the time left in this class reading and be {b}quiet{/b}..."
-    ja "你应该把剩下的时间花在这堂课上阅读，并且是{b}quiet{/b}……"
+    ja "你应该用这堂课剩下的时间看书，并且保持{b}安静{/b}……"
 
 # game/update3.rpy:6480
 translate schinese ep3_gender_studies_label_b53ed781:
 
     # ja "That way I might not fail you..."
-    ja "这样我就不会辜负你了..."
+    ja "这样我就不会辜负你了……"
 
 # game/update3.rpy:6500
 translate schinese ep3_lewd_jade_label_d49c7a65:
@@ -16744,7 +16743,7 @@ translate schinese ep3_lewd_jade_label_5bced7c8:
 translate schinese ep3_lewd_jade_label_3038b9d7:
 
     # ja "Just because your sex is male doesn't mean that you identify as such. Thus, your gender role is different."
-    ja "仅仅因为您的性别是男性并不意味着您认为自己是男性。因此，您的性别角色是不同的。"
+    ja "仅仅因为你的性别是男性并不意味着你认为自己是男性。因此，你的性别角色是不同的。"
 
 # game/update3.rpy:6528
 translate schinese ep3_lewd_jade_label_10f5ce1b:
@@ -16780,7 +16779,7 @@ translate schinese ep3_lewd_jade_label_5be9b6d0:
 translate schinese ep3_lewd_jade_label_7f6e6114:
 
     # ja "In today's society-uh..."
-    ja "在当今社会——呃..."
+    ja "在当今社会——呃……"
 
 # game/update3.rpy:6536
 translate schinese ep3_lewd_jade_label_92b8493a:
@@ -16804,7 +16803,7 @@ translate schinese ep3_lewd_jade_label_5e16924d:
 translate schinese ep3_lewd_jade_label_fd3cf50a:
 
     # ja "As I was saying..."
-    ja "正如我所说..."
+    ja "正如我所说……"
 
 # game/update3.rpy:6543
 translate schinese ep3_lewd_jade_label_3a3bfe8b:
@@ -16894,7 +16893,7 @@ translate schinese ep3_lewd_jade_label_41e3bf2a:
 translate schinese ep3_lewd_jade_label_026d33c3:
 
     # dn "Would you say that an individual with the male sex identifying with a female gender is female or male?"
-    dn "您认为男性性别认同为女性的个体是女性还是男性？"
+    dn "你认为男性性别认同为女性的个体是女性还是男性？"
 
 # game/update3.rpy:6564
 translate schinese ep3_lewd_jade_label_0a4d0268:
@@ -17026,7 +17025,7 @@ translate schinese ep3_lewd_jade_label_e618a26d:
 translate schinese ep3_lewd_jade_label_e1754f73:
 
     # dn "Uh. Thanks, Jade..."
-    dn "呃。谢谢，Jade..."
+    dn "呃。谢谢，Jade……"
 
 # game/update3.rpy:6606
 translate schinese ep3_lewd_jade_label_3379675d:
@@ -17050,7 +17049,7 @@ translate schinese ep3_lewd_jade_label_6a39fb2b:
 translate schinese ep3_lewd_jade_label_c4981793:
 
     # ja "I'll see what I can do..."
-    ja "我会看看我能做什么..."
+    ja "我会看看我能做什么……"
 
 # game/update3.rpy:6621
 translate schinese ep3_after_gender_label_81474761:
@@ -17092,7 +17091,7 @@ translate schinese ep3_after_gender_label_aea2d93a:
 translate schinese ep3_after_gender_label_c6d9cad5:
 
     # de "And just because you decide to, you can't be gender neutral!"
-    de "仅仅因为您决定这样做，您就不能保持性别中立！"
+    de "仅仅因为你决定这样做，你就不能保持性别中立！"
 
 # game/update3.rpy:6629
 translate schinese ep3_after_gender_label_1a1f0bc4:
@@ -17188,7 +17187,7 @@ translate schinese ep3_after_gender_label_afaa8a48:
 translate schinese ep3_after_gender_label_6a832b6b:
 
     # de "Apparently, we're {b}both{/b} at the bottom of the food chain in this class!"
-    de "显然，我们{b}both{/b}在这个班级的食物链底部！"
+    de "显然，我们{b}俩{/b}都是这个班食物链底端的！"
 
 # game/update3.rpy:6661
 translate schinese ep3_after_gender2_label_3b2c86e2:
@@ -17284,7 +17283,7 @@ translate schinese ep3_after_gender2_label_5b0d2558:
 translate schinese ep3_after_gender2_label_5de9da08:
 
     # de "If {b}she{/b} suggests it?"
-    de "如果{b}she{/b}建议的话？"
+    de "如果{b}她{/b}提出来呢？"
 
 # game/update3.rpy:6685
 translate schinese ep3_after_gender2_label_2369a035:
@@ -17308,7 +17307,7 @@ translate schinese ep3_after_gender2_label_994c6987:
 translate schinese ep3_after_gender2_label_36d8fbbf:
 
     # de "Let me get this straight..."
-    de "让我把这个说清楚..."
+    de "让我把这个说清楚……"
 
 # game/update3.rpy:6691
 translate schinese ep3_after_gender2_label_80f51816:
@@ -17350,7 +17349,7 @@ translate schinese ep3_after_gender2_label_8a14c1d3:
 translate schinese ep3_after_gender2_label_b762ec9d:
 
     # de "It's just...the pledge board!"
-    de "这只是……誓言板！"
+    de "只是……预备任务板而已！"
 
 # game/update3.rpy:6703
 translate schinese ep3_after_gender2_label_786604f8:
@@ -17368,7 +17367,7 @@ translate schinese ep3_after_gender2_label_76342250:
 translate schinese ep3_after_gender2_label_7136c946:
 
     # mc "I mean..."
-    mc "我是说..."
+    mc "我是说……"
 
 # game/update3.rpy:6707
 translate schinese ep3_after_gender2_label_adf93d3e:
@@ -17422,7 +17421,7 @@ translate schinese ep3_after_gender2_label_96504dd6:
 translate schinese ep3_after_gender2_label_6e7fc7f2:
 
     # de "It's for the pledge board..."
-    de "这是为了质押板..."
+    de "这是为了质押板……"
 
 # game/update3.rpy:6720
 translate schinese ep3_after_gender2_label_83766e14:
@@ -17452,19 +17451,19 @@ translate schinese ep3_after_gender2_label_95b276ee:
 translate schinese ep3_after_gender2_label_0c8b7cca:
 
     # mc "Look at that pledge board..."
-    mc "看看那个誓言板..."
+    mc "看看那块预备任务板……"
 
 # game/update3.rpy:6729
 translate schinese ep3_after_gender2_label_39046fd2:
 
     # mc "It feels like we've done a lot..."
-    mc "感觉我们做了很多事..."
+    mc "感觉我们做了很多事……"
 
 # game/update3.rpy:6730
 translate schinese ep3_after_gender2_label_148d0b93:
 
     # mc "...but we've barely made a dent!"
-    mc "...但我们几乎没有取得进展！"
+    mc "……但我们几乎没有取得进展！"
 
 # game/update3.rpy:6731
 translate schinese ep3_after_gender2_label_9d751c21:
@@ -17530,7 +17529,7 @@ translate schinese ep3_ano_label_2447c87a:
 translate schinese ep3_ano_label_065e0880:
 
     # sec "Yes?"
-    sec "有问题吗?"
+    sec "有问题吗？"
 
 # game/update3.rpy:6765
 translate schinese ep3_ano_label_3b91190c:
@@ -17794,7 +17793,7 @@ translate schinese ep3_after_ano_freeroam_label_d619f312:
 translate schinese ep3_after_ano_freeroam_label_10228b67:
 
     # ji "Ok...?"
-    ji "好的...？"
+    ji "好的……？"
 
 # game/update3.rpy:6866
 translate schinese ep3_after_ano_freeroam_label_49efb3da:
@@ -17818,7 +17817,7 @@ translate schinese ep3_after_ano_freeroam_label_48bd612b:
 translate schinese ep3_after_ano_freeroam_label_aba430bc:
 
     # ji "You know...that's Bella's favorite song."
-    ji "你知道…那是Bella最喜欢的歌。"
+    ji "你知道……那是Bella最喜欢的歌。"
 
 # game/update3.rpy:6872
 translate schinese ep3_after_ano_freeroam_label_ce9ec2ca:
@@ -17866,7 +17865,7 @@ translate schinese ep3_after_ano_freeroam_label_6ad62b67:
 translate schinese ep3_after_ano_freeroam_label_69402d03:
 
     # mc "Great! Because I would love to hear you play again!"
-    mc "伟大的！因为我很想再次听到你演奏！"
+    mc "太好了！因为我特别想再听你弹一次！"
 
 # game/update3.rpy:6887
 translate schinese ep3_after_ano_freeroam_label_a2f0c59e:
@@ -17884,7 +17883,7 @@ translate schinese ep3_after_ano_freeroam_label_efc8b342:
 translate schinese ep3_after_ano_freeroam_label_df20add8:
 
     # ji "All right... Let's go to the west wing."
-    ji "好吧...我们去西翼吧。"
+    ji "好吧……我们去西翼吧。"
 
 # game/update3.rpy:6892
 translate schinese ep3_after_ano_freeroam_label_05361e24:
@@ -17980,7 +17979,7 @@ translate schinese ep3_after_ano_freeroam_label_40cecb4d_1:
 translate schinese ep3_after_ano_freeroam_label_c0bdf8b6:
 
     # mc "Um...what?"
-    mc "嗯...什么？"
+    mc "嗯……什么？"
 
 # game/update3.rpy:6928
 translate schinese ep3_after_ano_freeroam_label_93850587:
@@ -17998,7 +17997,7 @@ translate schinese ep3_after_ano_freeroam_label_ec214774:
 translate schinese ep3_after_ano_freeroam_label_5a8213f6:
 
     # mc "Would you mind if I snapped a photo of the sheet? Just so I can study it later."
-    mc "您介意我拍张床单的照片吗？这样我就可以稍后再研究它了。"
+    mc "你介意我拍张床单的照片吗？这样我就可以稍后再研究它了。"
 
 # game/update3.rpy:6932
 translate schinese ep3_after_ano_freeroam_label_8e2354bc:
@@ -18022,7 +18021,7 @@ translate schinese ep3_after_ano_freeroam_label_9eef5a4c:
 translate schinese ep3_after_ano_freeroam_label_7760b9ca:
 
     # mc "I was thinking..."
-    mc "我在想..."
+    mc "我在想……"
 
 # game/update3.rpy:6939
 translate schinese ep3_after_ano_freeroam_label_6bf89c5f:
@@ -18190,7 +18189,7 @@ translate schinese ep3_after_ano_freeroam_label_f50b7dea:
 translate schinese ep3_after_ano_freeroam_label_5b990a7d:
 
     # ji "Well...you're wrong."
-    ji "嗯...你错了。"
+    ji "嗯……你错了。"
 
 # game/update3.rpy:6991
 translate schinese ep3_after_ano_freeroam_label_b37aed83:
@@ -18370,7 +18369,7 @@ translate schinese ep3_after_ano_freeroam_label_12ab7a9d:
 translate schinese ep3_after_ano_freeroam_label_63f68a82:
 
     # mc "Thank you for the music..."
-    mc "谢谢你的音乐..."
+    mc "谢谢你的音乐……"
 
 # game/update3.rpy:7042
 translate schinese ep3_after_ano_freeroam_label_631f3a31:
@@ -18418,7 +18417,7 @@ translate schinese ep3_after_ano_freeroam_label_154d9463:
 translate schinese ep3_after_ano_freeroam_label_5ad7782b:
 
     # mc "Bye..."
-    mc "再见..."
+    mc "再见……"
 
 # game/update3.rpy:7080
 translate schinese ep3_after_ano_freeroam_label_c0e1303e:
@@ -18460,7 +18459,7 @@ translate schinese ep3_after_ano_freeroam_label_8792b9dd:
 translate schinese ep3_after_ano_freeroam_label_2d5eccbe:
 
     # mc "(I don't know...)"
-    mc "（我不知道...）"
+    mc "（我不知道……）"
 
 # game/update3.rpy:7101
 translate schinese ep3_after_ano_freeroam_label_ec764799:
@@ -18526,13 +18525,13 @@ translate schinese ep3_bella_confront_label_8f040de3:
 translate schinese ep3_bella_confront_label_e2084c7a:
 
     # isa "What!? And it's {b}missus{/b}."
-    isa "什么！？它是{b}missus{/b}。"
+    isa "什么！？而且要叫{b}夫人{/b}。"
 
 # game/update3.rpy:7141
 translate schinese ep3_bella_confront_label_df5a3641:
 
     # stu "Ahh...I'm looking for class literature for my analytical chemistry class."
-    stu "啊...我正在为我的分析化学课寻找课堂文献。"
+    stu "啊……我正在为我的分析化学课寻找课堂文献。"
 
 # game/update3.rpy:7146
 translate schinese ep3_bella_confront_label_7fb1d343:
@@ -18556,7 +18555,7 @@ translate schinese ep3_bella_confront_label_561c7bba:
 translate schinese ep3_bella_confront_label_cbdb7cd6:
 
     # isa "Learn to use the {b}fucking{/b} computer and search for it yourself."
-    isa "学习使用{b}fucking{/b}电脑，自己搜索一下。"
+    isa "学会用那台{b}他妈的{/b}电脑，自己搜去。"
 
 # game/update3.rpy:7151
 translate schinese ep3_bella_confront_label_499e27c9:
@@ -18664,7 +18663,7 @@ translate schinese ep3_bella_confront_label_a7fd5701:
 translate schinese ep3_bella_confront_label_bc2d0617:
 
     # mg "Oh, the new pledge doesn't play Dungeons and Gremlins?"
-    mg "哦，新誓言不玩地下城与小魔怪？"
+    mg "哦，新的预备成员不玩《地下城与魔怪》吗？"
 
 # game/update3.rpy:7178
 translate schinese ep3_bella_confront_label_dafabf46:
@@ -18688,7 +18687,7 @@ translate schinese ep3_bella_confront_label_94bda780:
 translate schinese ep3_bella_confront_label_62a9e8fc:
 
     # mg "...she protects a great treasure, this library."
-    mg "...她保护着一个伟大的宝藏，这座图书馆。"
+    mg "……她保护着一个伟大的宝藏，这座图书馆。"
 
 # game/update3.rpy:7184
 translate schinese ep3_bella_confront_label_435a68fa:
@@ -18706,7 +18705,7 @@ translate schinese ep3_bella_confront_label_d85da754:
 translate schinese ep3_bella_confront_label_d9877fec:
 
     # mg "Oh, Isabella. Um-I..."
-    mg "哦，Isabella。嗯-我..."
+    mg "哦，Isabella。嗯-我……"
 
 # game/update3.rpy:7189
 translate schinese ep3_bella_confront_label_a0d784c3:
@@ -18730,7 +18729,7 @@ translate schinese ep3_bella_confront_label_3f311ee3:
 translate schinese ep3_bella_confront_label_e09c6c4c:
 
     # mg "*{i}Whispers{/i}* Sir Magnar fought the beast and lived to tell his tale."
-    mg "*{i}Whispers{/i}* 马格纳爵士与野兽战斗并活了下来，讲述了他的故事。"
+    mg "*{i}低语{/i}* 马格纳爵士与野兽战斗并活了下来，讲述了他的故事。"
 
 # game/update3.rpy:7195
 translate schinese ep3_bella_confront_label_753f8867_3:
@@ -18748,7 +18747,7 @@ translate schinese ep3_bella_confront_label_080691e5:
 translate schinese ep3_bella_confront_label_114a9c75:
 
     # mc "Wow...fine."
-    mc "哇…好吧。"
+    mc "哇……好吧。"
 
 # game/update3.rpy:7203
 translate schinese ep3_bella_confront_label_39575578:
@@ -18796,7 +18795,7 @@ translate schinese ep3_bella_confront_label_0793820a:
 translate schinese ep3_bella_confront_label_75b14fde:
 
     # isa "Ok... You can help me by putting books back into their shelves."
-    isa "好的...你可以帮我把书放回书架上。"
+    isa "好的……你可以帮我把书放回书架上。"
 
 # game/update3.rpy:7220
 translate schinese ep3_bella_confront_label_62a18dbc:
@@ -18850,7 +18849,7 @@ translate schinese ep3_bella_confront_label_d1a1d47e:
 translate schinese ep3_bella_confront_label_398b32b0:
 
     # mc "I don't think I would have done it..."
-    mc "我不认为我会这么做..."
+    mc "我不认为我会这么做……"
 
 # game/update3.rpy:7247
 translate schinese ep3_bella_confront_label_0971487e:
@@ -18904,7 +18903,7 @@ translate schinese ep3_bella_lewd_label_cfaae932:
 translate schinese ep3_bella_lewd_label_a8a5846e:
 
     # isa "I don't like you..."
-    isa "我不喜欢你..."
+    isa "我不喜欢你……"
 
 # game/update3.rpy:7287
 translate schinese ep3_bella_lewd_label_c5b57eb3:
@@ -18928,7 +18927,7 @@ translate schinese ep3_bella_lewd_label_bbe7a3f8:
 translate schinese ep3_bella_lewd_label_c894deee:
 
     # mc "Even so..."
-    mc "即便如此..."
+    mc "即便如此……"
 
 # game/update3.rpy:7294
 translate schinese ep3_bella_lewd_label_8a3ee94d:
@@ -19024,7 +19023,7 @@ translate schinese ep3_bella_lewd_label_4e147294:
 translate schinese ep3_bella_lewd_label_b281f49d:
 
     # isa "I can't..."
-    isa "我不能..."
+    isa "我不能……"
 
 # game/update3.rpy:7337
 translate schinese ep3_bella_lewd_label_31b12340:
@@ -19072,7 +19071,7 @@ translate schinese ep3_bella_lewd_label_0de51866:
 translate schinese ep3_bella_lewd_label_bfe59cc5:
 
     # mc "{i}...which, of course, is a very big deal.{/i}"
-    mc "{i}...当然，这是一个非常大的问题。{/i}"
+    mc "{i}……当然，这是一个非常大的问题。{/i}"
 
 # game/update3.rpy:7354
 translate schinese ep3_bella_lewd_label_482e0555:
@@ -19084,7 +19083,7 @@ translate schinese ep3_bella_lewd_label_482e0555:
 translate schinese ep3_bella_lewd_label_cd4b98e2:
 
     # mc "{i}...and to her persona...{/i}"
-    mc "{i}...和她的角色...{/i}"
+    mc "{i}……和她的角色……{/i}"
 
 # game/update3.rpy:7358
 translate schinese ep3_bella_lewd_label_930b55a1:
@@ -19222,7 +19221,7 @@ translate schinese ep3_maya_wed_label_e82c7ea9:
 translate schinese ep3_maya_wed_label_9af335bb:
 
     # mc "I have to..."
-    mc "我必须..."
+    mc "我必须……"
 
 # game/update3.rpy:7413
 translate schinese ep3_maya_wed_label_ec2a469b:
@@ -19258,7 +19257,7 @@ translate schinese ep3_maya_wed_label_2cf8be39:
 translate schinese ep3_maya_wed_label_d136538a:
 
     # mc "You know what...? I think I am."
-    mc "你知道吗… ？我想我是。"
+    mc "你知道吗…… ？我想我是。"
 
 # game/update3.rpy:7427
 translate schinese ep3_maya_wed_label_f013a8d1:
@@ -19300,7 +19299,7 @@ translate schinese ep3_chose_quri_label_a03a6259:
 translate schinese ep3_chose_quri_label_bcbbe774:
 
     # de "Hey, [mc_de_up]... Are you good?"
-    de "嘿，[mc_de_up]...你还好吗？"
+    de "嘿，[mc_de_up]……你还好吗？"
 
 # game/update3.rpy:7443
 translate schinese ep3_chose_quri_label_d6d5d6f5:
@@ -19342,7 +19341,7 @@ translate schinese ep3_chose_quri_label_409a57e7:
 translate schinese ep3_chose_quri_label_bcbbe774_1:
 
     # de "Hey, [mc_de_up]... Are you good?"
-    de "嘿，[mc_de_up]...你还好吗？"
+    de "嘿，[mc_de_up]……你还好吗？"
 
 # game/update3.rpy:7456
 translate schinese ep3_chose_quri_label_d6d5d6f5_1:
@@ -19414,7 +19413,7 @@ translate schinese ep3_quri_lewd_label_669664cb:
 translate schinese ep3_quri_lewd_label_05ea498c:
 
     # qu "Hey..."
-    qu "嘿..."
+    qu "嘿……"
 
 # game/update3.rpy:7502
 translate schinese ep3_quri_lewd_label_a6cd6003:
@@ -19492,7 +19491,7 @@ translate schinese ep3_quri_lewd_label_42b54903:
 translate schinese ep3_quri_lewd_label_feea8c23:
 
     # qu "Well..."
-    qu "出色地..."
+    qu "出色地……"
 
 # game/update3.rpy:7526
 translate schinese ep3_quri_lewd_label_17de5ff1:
@@ -19534,7 +19533,7 @@ translate schinese ep3_quri_lewd_label_8545b0e5:
 translate schinese ep3_quri_lewd_label_17f51817:
 
     # qu "*{i}Whispers{/i}* I told you we could do it."
-    qu "*{i}Whispers{/i}* 我告诉过你我们可以做到。"
+    qu "*{i}低语{/i}* 我告诉过你我们可以做到。"
 
 # game/update3.rpy:7536
 translate schinese ep3_quri_lewd_label_7eb1cc2f:
@@ -19564,7 +19563,7 @@ translate schinese ep3_quri_lewd_label_d4b9de49:
 translate schinese ep3_quri_lewd_label_b2122911:
 
     # qu "Now that's how you welcome a customer."
-    qu "现在这就是您欢迎顾客的方式。"
+    qu "现在这就是你欢迎顾客的方式。"
 
 # game/update3.rpy:7546
 translate schinese ep3_quri_lewd_label_e792b427:
@@ -19600,7 +19599,7 @@ translate schinese getPlayerLewdNameQuinn_2762e450:
 translate schinese getPlayerLewdNameQuinn_b8818129:
 
     # qu "As you wish...[mc_quinn]..."
-    qu "如你所愿...[mc_quinn]..."
+    qu "如你所愿……[mc_quinn]……"
 
 # game/update3.rpy:7563
 translate schinese getPlayerLewdNameQuinn_5d3e4a23:
@@ -19636,7 +19635,7 @@ translate schinese getPlayerLewdNameRiona3_7ca511fd:
 translate schinese getPlayerLewdNameRiona3_c1ed0e79:
 
     # qu "Would you like to do everything to Riona, [mc_quinn]?"
-    qu "您想对Riona[mc_quinn]做任何事情吗？"
+    qu "你想对Riona[mc_quinn]做任何事情吗？"
 
 # game/update3.rpy:7607
 translate schinese getPlayerLewdNameRiona3_71cafc88:
@@ -19648,7 +19647,7 @@ translate schinese getPlayerLewdNameRiona3_71cafc88:
 translate schinese getPlayerLewdNameRiona3_dad8a9d3:
 
     # qu "Oh my... I'm picking up a kinky vibe from this."
-    qu "哦天哪...我从这里感受到了一种变态的感觉。"
+    qu "哦天哪……我从这里感受到了一种变态的感觉。"
 
 # game/update3.rpy:7611
 translate schinese getPlayerLewdNameRiona3_061f4fbe:
@@ -19756,7 +19755,7 @@ translate schinese getPlayerLewdNameRiona3_be25a46d:
 translate schinese getPlayerLewdNameRiona3_807a6478:
 
     # qu "I'll make sure that you'll cum more than you've done in your entire life, tonight, [mc_quinn]..."
-    qu "今晚我会确保你会比你一生中射精更多，[mc_quinn]..."
+    qu "今晚我会确保你会比你一生中射精更多，[mc_quinn]……"
 
 # game/update3.rpy:7644
 translate schinese getPlayerLewdNameRiona3_4029c0c6:
@@ -19786,7 +19785,7 @@ translate schinese getPlayerLewdNameRiona3_17475415:
 translate schinese getPlayerLewdNameRiona3_de946a0e:
 
     # qu "Poor Riona..."
-    qu "可怜的Riona..."
+    qu "可怜的Riona……"
 
 # game/update3.rpy:7652
 translate schinese getPlayerLewdNameRiona3_975db28e:
@@ -19798,7 +19797,7 @@ translate schinese getPlayerLewdNameRiona3_975db28e:
 translate schinese getPlayerLewdNameRiona3_a757bb15:
 
     # qu "Look who's already starting..."
-    qu "看看谁已经开始了..."
+    qu "看看谁已经开始了……"
 
 # game/update3.rpy:7655
 translate schinese getPlayerLewdNameRiona3_7cdfdf2e:
@@ -19816,7 +19815,7 @@ translate schinese getPlayerLewdNameRiona3_1cc34755:
 translate schinese getPlayerLewdNameRiona3_9bd1a88c:
 
     # qu "Hey, [mc_quinn]. Look at her go..."
-    qu "嘿，[mc_quinn]。看着她走..."
+    qu "嘿，[mc_quinn]。看着她走……"
 
 # game/update3.rpy:7659
 translate schinese getPlayerLewdNameRiona3_a967b8f5:
@@ -19834,7 +19833,7 @@ translate schinese getPlayerLewdNameRiona3_6d46a069:
 translate schinese getPlayerLewdNameRiona3_ed9e334e:
 
     # qu "She's a natural born cock sucker..."
-    qu "她是天生的屌丝..."
+    qu "她是天生的屌丝……"
 
 # game/update3.rpy:7662
 translate schinese getPlayerLewdNameRiona3_73d65a78:
@@ -19858,13 +19857,13 @@ translate schinese getPlayerLewdNameRiona3_ebaf01fd:
 translate schinese getPlayerLewdNameRiona3_095359b0:
 
     # qu "Stop looking into our eyes, [mc_quinn]..."
-    qu "别再看着我们的眼睛了，[mc_quinn]..."
+    qu "别再看着我们的眼睛了，[mc_quinn]……"
 
 # game/update3.rpy:7667
 translate schinese getPlayerLewdNameRiona3_7121bf43:
 
     # qu "That's how you avoid cumming early..."
-    qu "这就是你如何避免过早射精..."
+    qu "这就是你如何避免过早射精……"
 
 # game/update3.rpy:7668
 translate schinese getPlayerLewdNameRiona3_1cc34755_1:
@@ -19876,13 +19875,13 @@ translate schinese getPlayerLewdNameRiona3_1cc34755_1:
 translate schinese getPlayerLewdNameRiona3_2a5a062d:
 
     # ri "He's still doing it..."
-    ri "他还在做..."
+    ri "他还在做……"
 
 # game/update3.rpy:7670
 translate schinese getPlayerLewdNameRiona3_a757cb7d:
 
     # mc "I'm just enjoying the view..."
-    mc "我只是在欣赏风景..."
+    mc "我只是在欣赏风景……"
 
 # game/update3.rpy:7671
 translate schinese getPlayerLewdNameRiona3_0223ebca:
@@ -19894,13 +19893,13 @@ translate schinese getPlayerLewdNameRiona3_0223ebca:
 translate schinese getPlayerLewdNameRiona3_01758d45:
 
     # ri "Whatever you say, [mc_riona]..."
-    ri "不管你说什么，[mc_riona]..."
+    ri "不管你说什么，[mc_riona]……"
 
 # game/update3.rpy:7674
 translate schinese getPlayerLewdNameRiona3_7eab902f:
 
     # qu "Wow, you're way too hard, already."
-    qu "哇，你已经太用力了。"
+    qu "哇，你已经硬成这样了。"
 
 # game/update3.rpy:7675
 translate schinese getPlayerLewdNameRiona3_3499835b:
@@ -19930,7 +19929,7 @@ translate schinese getPlayerLewdNameRiona3_00b5b241:
 translate schinese getPlayerLewdNameRiona3_cf265f0c:
 
     # qu "Meanwhile...I'll get Riona ready for you."
-    qu "与此同时...我会让Riona为你准备好。"
+    qu "与此同时……我会让Riona为你准备好。"
 
 # game/update3.rpy:7684
 translate schinese getPlayerLewdNameRiona3_4caebb5c:
@@ -19948,13 +19947,13 @@ translate schinese getPlayerLewdNameRiona3_177d7470:
 translate schinese getPlayerLewdNameRiona3_0d04eab8:
 
     # qu "Aw, cute... I wasn't talking about cigarettes, but fine..."
-    qu "噢，可爱...我不是在谈论香烟，但是好吧..."
+    qu "噢，可爱……我不是在谈论香烟，但是好吧……"
 
 # game/update3.rpy:7688
 translate schinese getPlayerLewdNameRiona3_62a5bd3d:
 
     # qu "Maybe next time..."
-    qu "下一次吧..."
+    qu "下一次吧……"
 
 # game/update3.rpy:7689
 translate schinese getPlayerLewdNameRiona3_41d1212b:
@@ -19990,7 +19989,7 @@ translate schinese getPlayerLewdNameRiona3_8a5f7284:
 translate schinese getPlayerLewdNameRiona3_e028e002:
 
     # ri "Rude..."
-    ri "粗鲁的..."
+    ri "粗鲁的……"
 
 # game/update3.rpy:7702
 translate schinese getPlayerLewdNameRiona3_bec03e85:
@@ -20014,13 +20013,13 @@ translate schinese getPlayerLewdNameRiona3_3f129362:
 translate schinese getPlayerLewdNameRiona3_870de498:
 
     # ri "Mmm..."
-    ri "嗯..."
+    ri "嗯……"
 
 # game/update3.rpy:7709
 translate schinese getPlayerLewdNameRiona3_7c79ba2f:
 
     # qu "They taste great..."
-    qu "它们味道很棒..."
+    qu "它们味道很棒……"
 
 # game/update3.rpy:7713
 translate schinese getPlayerLewdNameRiona3_0888f34b:
@@ -20044,7 +20043,7 @@ translate schinese getPlayerLewdNameRiona3_2d469d22:
 translate schinese getPlayerLewdNameRiona3_eeca7597:
 
     # qu "Come closer..."
-    qu "靠近一点..."
+    qu "靠近一点……"
 
 # game/update3.rpy:7721
 translate schinese getPlayerLewdNameRiona3_317adf4a:
@@ -20062,7 +20061,7 @@ translate schinese getPlayerLewdNameRiona3_4afd18a8:
 translate schinese getPlayerLewdNameRiona3_69806d83:
 
     # qu "As you wish..."
-    qu "如你所愿..."
+    qu "如你所愿……"
 
 # game/update3.rpy:7727
 translate schinese getPlayerLewdNameRiona3_4b42b698:
@@ -20092,7 +20091,7 @@ translate schinese getPlayerLewdNameRiona3_14820681:
 translate schinese getPlayerLewdNameRiona3_1cfa648f:
 
     # ri "Hngh..."
-    ri "嗯..."
+    ri "嗯……"
 
 # game/update3.rpy:7734
 translate schinese getPlayerLewdNameRiona3_886e58cf:
@@ -20128,7 +20127,7 @@ translate schinese getPlayerLewdNameRiona3_ec3c53fa:
 translate schinese getPlayerLewdNameRiona3_f83ece4e:
 
     # qu "It's time for you to join us. I wanna see Riona get fucked. Hard!"
-    qu "是时候你加入我们了。我想看 Riona 被操。难的！"
+    qu "该你加入了。我要看 Riona 被狠狠地操！"
 
 # game/update3.rpy:7745
 translate schinese getPlayerLewdNameRiona3_b195cf68:
@@ -20176,7 +20175,7 @@ translate schinese getPlayerLewdNameRiona3_1140ba33:
 translate schinese ep3_quri_loop_cowgirl_label_7d1f580e:
 
     # qu "Yes...[mc_quinn]... Eat my pussy, it's all yours..."
-    qu "是的……[mc_quinn]……吃我的猫，全是你的……"
+    qu "是的……[mc_quinn]……舔我的小穴，它全都是你的……"
 
 # game/update3.rpy:7780
 translate schinese ep3_quri_loop_cowgirl_label_33b8e80f:
@@ -20206,7 +20205,7 @@ translate schinese ep3_quri_loop_cowgirl_label_a36a35fa:
 translate schinese ep3_quri_loop_cowgirl_label_e8aea928:
 
     # ri "*{i}Moans{/i}* Ahhh! It's too big!"
-    ri "*{i}Moans{/i}* 啊哈！太大了！"
+    ri "*{i}呻吟{/i}* 啊哈！太大了！"
 
 # game/update3.rpy:7788
 translate schinese ep3_quri_loop_cowgirl_label_63f63ec7:
@@ -20242,7 +20241,7 @@ translate schinese ep3_quri_loop_cowgirl_label_838516bd:
 translate schinese ep3_quri_loop_cowgirl_label_9d99df1c:
 
     # qu "How about this...?"
-    qu "这个怎么样...?"
+    qu "这个怎么样……?"
 
 # game/update3.rpy:7816
 translate schinese ep3_quri_loop_cowgirl_label_f1aa2e99:
@@ -20284,7 +20283,7 @@ translate schinese ep3_doggychoice_label_4b42b698:
 translate schinese ep3_doggychoice_label2_d5a40d7c:
 
     # qu "Let's use Riona together..."
-    qu "让我们一起使用 Riona..."
+    qu "让我们一起使用 Riona……"
 
 # game/update3.rpy:7846
 translate schinese ep3_doggychoice_label2_3bc159af:
@@ -20296,13 +20295,13 @@ translate schinese ep3_doggychoice_label2_3bc159af:
 translate schinese ep3_doggychoice_label2_0ccfc927:
 
     # mc "Come here, [quinn]..."
-    mc "过来，[quinn]..."
+    mc "过来，[quinn]……"
 
 # game/update3.rpy:7852
 translate schinese ep3_doggychoice_label2_2326970b:
 
     # qu "Mmm..."
-    qu "嗯..."
+    qu "嗯……"
 
 # game/update3.rpy:7861
 translate schinese ep3_doggychoice_label2_ebda22dd:
@@ -20314,7 +20313,7 @@ translate schinese ep3_doggychoice_label2_ebda22dd:
 translate schinese ep3_doggychoice_label2_7effb942:
 
     # qu "What are you waiting for? Put it in her..."
-    qu "你还在等什么？放进她的..."
+    qu "你还在等什么？放进她的……"
 
 # game/update3.rpy:7868
 translate schinese ep3_doggychoice_label2_f0f4f6ef:
@@ -20344,7 +20343,7 @@ translate schinese ep3_doggychoice_label2_a57e9901:
 translate schinese ep3_doggychoice_label2_0690fecc:
 
     # mc "Of course I am, [quinn]..."
-    mc "我当然是，[quinn]..."
+    mc "我当然是，[quinn]……"
 
 # game/update3.rpy:7880
 translate schinese ep3_doggychoice_label2_82582dde:
@@ -20368,7 +20367,7 @@ translate schinese ep3_doggychoice_label2_8ce181ca:
 translate schinese ep3_doggychoice_label2_9f10e9f5:
 
     # mc "I'm gonna cum..."
-    mc "我要射了..."
+    mc "我要射了……"
 
 # game/update3.rpy:7891
 translate schinese ep3_doggychoice_label2_74f27535:
@@ -20386,13 +20385,13 @@ translate schinese ep3_doggychoice_label2_0f748277:
 translate schinese ep3_doggychoice_label2_61ee61ee:
 
     # mc "Oh...shit... Are you ready, [riona]?"
-    mc "哦...该死...你准备好了吗，[riona]？"
+    mc "哦……该死……你准备好了吗，[riona]？"
 
 # game/update3.rpy:7896
 translate schinese ep3_doggychoice_label2_05aa33c1:
 
     # ri "Mhm...[mc_riona]..."
-    ri "嗯...[mc_riona]..."
+    ri "嗯……[mc_riona]……"
 
 # game/update3.rpy:7900
 translate schinese ep3_doggychoice_label2_8b8906eb:
@@ -20410,7 +20409,7 @@ translate schinese ep3_doggychoice_label2_ff2f9199:
 translate schinese ep3_doggychoice_label2_807fa0b3:
 
     # qu "Don't be greedy, Riona... Share it with me."
-    qu "别贪心了，Riona...和我分享吧。"
+    qu "别贪心了，Riona……和我分享吧。"
 
 # game/update3.rpy:7915
 translate schinese ep3_doggychoice_label2_0c24b0d9:
@@ -20422,7 +20421,7 @@ translate schinese ep3_doggychoice_label2_0c24b0d9:
 translate schinese ep3_doggychoice_label2_0d6b9541:
 
     # mc "That's really hot..."
-    mc "实在是太热了..."
+    mc "实在是太热了……"
 
 # game/update3.rpy:7919
 translate schinese ep3_doggychoice_label2_5d90af04:
@@ -20446,13 +20445,13 @@ translate schinese ep3_doggychoice_label2_6c45af79:
 translate schinese ep3_doggychoice_label2_c3741b16:
 
     # qu "I'm glad you enjoyed it..."
-    qu "我很高兴你喜欢它..."
+    qu "我很高兴你喜欢它……"
 
 # game/update3.rpy:7927
 translate schinese ep3_doggychoice_label2_24f146f7:
 
     # qu "Say...thanks for buying from my restaurant."
-    qu "说...感谢您从我的餐厅购买。"
+    qu "说……感谢你从我的餐厅购买。"
 
 # game/update3.rpy:7929
 translate schinese ep3_doggychoice_label2_5d657ab8:
@@ -20470,7 +20469,7 @@ translate schinese ep3_doggychoice_label2_ec3df409:
 translate schinese ep3_doggychoice_label2_f48a7bd3:
 
     # qu "Well...until next time...[mc_quinn]..."
-    qu "好吧...直到下次...[mc_quinn]..."
+    qu "好吧……直到下次……[mc_quinn]……"
 
 # game/update3.rpy:7955
 translate schinese ep3_chose_maya_label_96f8e0ac:
@@ -20500,7 +20499,7 @@ translate schinese ep3_chose_maya_label_3b53dc1c:
 translate schinese ep3_chose_maya_label_4b7433fe:
 
     # de "Would you?"
-    de "那么您是"
+    de "那么你是"
 
 # game/update3.rpy:7964
 translate schinese ep3_chose_maya_label_1bf60051:
@@ -20536,7 +20535,7 @@ translate schinese ep3_chose_maya_label_b95eb9a2:
 translate schinese ep3_chose_maya_label_0b65ff96:
 
     # de "Sorry...family stuff."
-    de "对不起...家庭的事情。"
+    de "对不起……家庭的事情。"
 
 # game/update3.rpy:7979
 translate schinese ep3_chose_maya_label_1aacc189:
@@ -20554,13 +20553,13 @@ translate schinese ep3_chose_maya_label_6082dd23:
 translate schinese ep3_maya_lewd_label_641ba078:
 
     # my "Does your offer still stand? You know...about {i}helping{/i} me?"
-    my "你的报价还有效吗？你知道...关于{i}帮助{/i}我吗？"
+    my "你的报价还有效吗？你知道……关于{i}帮助{/i}我吗？"
 
 # game/update3.rpy:8011
 translate schinese ep3_maya_lewd_label_ea31a318:
 
     # mc "Oh... Yeah, just like I said. I'll help you."
-    mc "哦...是的，就像我说的那样。我会帮助你。"
+    mc "哦……是的，就像我说的那样。我会帮助你。"
 
 # game/update3.rpy:8012
 translate schinese ep3_maya_lewd_label_331dc0c2:
@@ -20614,7 +20613,7 @@ translate schinese ep3_maya_lewd_label_8a3a8de0:
 translate schinese ep3_maya_lewd_label_e3eac5f7:
 
     # my "...I should be ok after...I hope."
-    my "...我希望之后应该会好起来。"
+    my "……我希望之后应该会好起来。"
 
 # game/update3.rpy:8025
 translate schinese ep3_maya_lewd_label_c80fc3a3:
@@ -20638,7 +20637,7 @@ translate schinese ep3_maya_lewd_label_d0bc3a61:
 translate schinese ep3_maya_lewd_label_326a60a8:
 
     # my "That I need your help with this..."
-    my "我需要你的帮助..."
+    my "我需要你的帮助……"
 
 # game/update3.rpy:8030
 translate schinese ep3_maya_lewd_label_823dcb39:
@@ -20674,7 +20673,7 @@ translate schinese ep3_maya_lewd_label_9a2b174e:
 translate schinese ep3_maya_lewd_label_9de59a20:
 
     # mc "Great! Let's start thinking about this together."
-    mc "伟大的！让我们一起开始思考这个问题。"
+    mc "太好了！那就一起开始琢磨这事吧。"
 
 # game/update3.rpy:8038
 translate schinese ep3_maya_lewd_label_ed05fc1f:
@@ -20704,7 +20703,7 @@ translate schinese ep3_maya_lewd_label_c1dff962:
 translate schinese ep3_maya_lewd_label_89b3052b:
 
     # my "Yeah..."
-    my "对..."
+    my "对……"
 
 # game/update3.rpy:8047
 translate schinese ep3_maya_lewd_label_79cb3d4f:
@@ -20722,7 +20721,7 @@ translate schinese ep3_maya_lewd_label_1a3c3285:
 translate schinese ep3_maya_lewd_label_d9fd6647:
 
     # mc "What parts of the list do you want me to help you with?"
-    mc "您希望我帮助您处理清单中的哪些部分？"
+    mc "你希望我帮助你处理清单中的哪些部分？"
 
 # game/update3.rpy:8052
 translate schinese ep3_maya_lewd_label_46ed7df4:
@@ -20746,7 +20745,7 @@ translate schinese ep3_maya_lewd_label_aea69e8b:
 translate schinese ep3_maya_lewd_label_94f80b79:
 
     # my "...but...we do all of them."
-    my "...但是...我们都做了。"
+    my "……但是……我们都做了。"
 
 # game/update3.rpy:8059
 translate schinese ep3_maya_lewd_label_b6e3feea:
@@ -20770,19 +20769,19 @@ translate schinese ep3_maya_lewd_label_6cb219b8:
 translate schinese ep3_maya_lewd_label_e8777fcf:
 
     # mc "A bit jittery..."
-    mc "有点心慌..."
+    mc "有点心慌……"
 
 # game/update3.rpy:8069
 translate schinese ep3_maya_lewd_label_8670341e:
 
     # mc "...and horny."
-    mc "...并且饥渴。"
+    mc "……并且饥渴。"
 
 # game/update3.rpy:8071
 translate schinese ep3_maya_lewd_label_a05c84b6:
 
     # my " Me too..."
-    my "我也是..."
+    my "我也是……"
 
 # game/update3.rpy:8072
 translate schinese ep3_maya_lewd_label_0aefdfc1:
@@ -20818,7 +20817,7 @@ translate schinese ep3_maya_lewd_label_64a36006:
 translate schinese ep3_maya_lewd_label_1fae30fc:
 
     # mc "Are you sure you want to do this?"
-    mc "您确定要这样做吗？"
+    mc "你确定要这样做吗？"
 
 # game/update3.rpy:8081
 translate schinese ep3_maya_lewd_label_6f827dca:
@@ -20854,7 +20853,7 @@ translate schinese ep3_maya_lewd_label_ace3740f:
 translate schinese ep3_maya_lewd_label_5d96735f:
 
     # my "Those latter two..."
-    my "后两个..."
+    my "后两个……"
 
 # game/update3.rpy:8091
 translate schinese ep3_maya_lewd_label_5b39887d:
@@ -20926,13 +20925,13 @@ translate schinese ep3_maya_lewd_label_1de0f04c:
 translate schinese ep3_maya_lewd_label_94a09ac5:
 
     # mc "Ouch!"
-    mc "哎哟!"
+    mc "哎哟！"
 
 # game/update3.rpy:8110
 translate schinese ep3_maya_lewd_label_29a46df8:
 
     # mc "I should've been clearer...I need photo proof on that one."
-    mc "我应该更清楚...我需要那张照片作为证明。"
+    mc "我应该更清楚……我需要那张照片作为证明。"
 
 # game/update3.rpy:8111
 translate schinese ep3_maya_lewd_label_0792cda9:
@@ -20950,7 +20949,7 @@ translate schinese ep3_maya_lewd_label_6ad2926e:
 translate schinese ep3_maya_lewd_label_73ba5663:
 
     # my "Wait..."
-    my "等待..."
+    my "等待……"
 
 # game/update3.rpy:8116
 translate schinese ep3_maya_lewd_label_debffe53:
@@ -21058,7 +21057,7 @@ translate schinese ep3_maya_breast_loop_9f6d8f78:
 translate schinese ep3_maya_breast_loop_fee97440:
 
     # my "Be gentle, [mc_maya]..."
-    my "温柔一点，[mc_maya]..."
+    my "温柔一点，[mc_maya]……"
 
 # game/update3.rpy:8163
 translate schinese ep3_maya_breast_loop_ecf13bb5:
@@ -21094,7 +21093,7 @@ translate schinese ep3_maya_breast_loop_f86ab9af:
 translate schinese ep3_maya_breast_loop_70f8dc08:
 
     # my "It turns me on..."
-    my "它让我兴奋..."
+    my "它让我兴奋……"
 
 # game/update3.rpy:8175
 translate schinese ep3_maya_breast_loop_f7d78e8a:
@@ -21106,7 +21105,7 @@ translate schinese ep3_maya_breast_loop_f7d78e8a:
 translate schinese ep3_maya_pussy_loop_8e663ce8:
 
     # mc "Last time I touched you..."
-    mc "上次我碰你的时候..."
+    mc "上次我碰你的时候……"
 
 # game/update3.rpy:8189
 translate schinese ep3_maya_pussy_loop_575872c1:
@@ -21130,13 +21129,13 @@ translate schinese ep3_maya_pussy_loop_abfa0348:
 translate schinese ep3_maya_pussy_loop_50109bd4:
 
     # my "Oh...[mc_maya]."
-    my "哦...[mc_maya]。"
+    my "哦……[mc_maya]。"
 
 # game/update3.rpy:8194
 translate schinese ep3_maya_pussy_loop_b1fa1cc7:
 
     # my "Remember to take it slow with me..."
-    my "记得跟我一起慢慢来..."
+    my "记得跟我一起慢慢来……"
 
 # game/update3.rpy:8195
 translate schinese ep3_maya_pussy_loop_998a5d9f:
@@ -21172,7 +21171,7 @@ translate schinese ep3_maya_pussy_loop_66bfce18:
 translate schinese ep3_maya_pussy_loop_9f98ac27:
 
     # my "Um...[mc_maya]?"
-    my "嗯...[mc_maya]？"
+    my "嗯……[mc_maya]？"
 
 # game/update3.rpy:8205
 translate schinese ep3_maya_pussy_loop_75211c45:
@@ -21196,7 +21195,7 @@ translate schinese ep3_maya_pussy_loop_5a400d02:
 translate schinese ep3_maya_pussy_loop_262eafe3:
 
     # my "Hngn...yes...oh...fuck!"
-    my "嗯...是的...哦...操！"
+    my "嗯……是的……哦……操！"
 
 # game/update3.rpy:8212
 translate schinese ep3_maya_pussy_loop_aad71b82:
@@ -21226,7 +21225,7 @@ translate schinese ep3_maya_pussy_loop_ba40dba8:
 translate schinese ep3_maya_continue_loop_19d18ba1:
 
     # my "Ok... Do it."
-    my "好吧...做吧。"
+    my "好吧……做吧。"
 
 # game/update3.rpy:8225
 translate schinese ep3_maya_continue_loop_94507c05:
@@ -21388,7 +21387,7 @@ translate schinese ep3_maya_continue_loop_a54d1007:
 translate schinese ep3_maya_continue_loop_a36d3738:
 
     # mc "Yeah...mmm...you have a perfect grip now."
-    mc "是啊…嗯…你现在的抓地力很完美。"
+    mc "是啊……嗯……你现在的抓地力很完美。"
 
 # game/update3.rpy:8265
 translate schinese ep3_maya_continue_loop_009339e5:
@@ -21430,7 +21429,7 @@ translate schinese ep3_maya_continue_loop_377c07f0:
 translate schinese ep3_maya_continue_loop_e78e8203:
 
     # my "(...I think.)"
-    my "（...我认为。）"
+    my "（……我认为。）"
 
 # game/update3.rpy:8277
 translate schinese ep3_maya_continue_loop_60d96613:
@@ -21454,7 +21453,7 @@ translate schinese ep3_maya_continue_loop_ad0d2a45:
 translate schinese ep3_maya_continue_loop_338af188:
 
     # my "We're already naked doing this..."
-    my "我们已经赤身裸体做这件事了..."
+    my "我们已经赤身裸体做这件事了……"
 
 # game/update3.rpy:8282
 translate schinese ep3_maya_continue_loop_29eb5fc7:
@@ -21484,7 +21483,7 @@ translate schinese ep3_maya_continue_loop_6ad2926e:
 translate schinese ep3_maya_continue_loop_9446cea5:
 
     # my "Oh!!! Yes! [mc_maya]..."
-    my "哦！！！是的！[mc_maya]..."
+    my "哦！！！是的！[mc_maya]……"
 
 # game/update3.rpy:8296
 translate schinese ep3_maya_continue_loop_a982337a:
@@ -21544,7 +21543,7 @@ translate schinese ep3_maya_continue_loop_bf80e774:
 translate schinese ep3_maya_continue_loop_f0d6da45:
 
     # my "Um...[mc_maya]..."
-    my "嗯...[mc_maya]..."
+    my "嗯……[mc_maya]……"
 
 # game/update3.rpy:8311
 translate schinese ep3_maya_continue_loop_9ad1f6a7:
@@ -21556,13 +21555,13 @@ translate schinese ep3_maya_continue_loop_9ad1f6a7:
 translate schinese ep3_maya_continue_loop_4f5eb2f9:
 
     # my "It's just that..."
-    my "只是那..."
+    my "只是那……"
 
 # game/update3.rpy:8314
 translate schinese ep3_maya_continue_loop_0ad74ea1:
 
     # my "I'm not so sure it will fit..."
-    my "我不太确定它会适合..."
+    my "我不太确定它会适合……"
 
 # game/update3.rpy:8316
 translate schinese ep3_maya_continue_loop_32ac5040:
@@ -21604,7 +21603,7 @@ translate schinese ep3_maya_continue_loop_d4cd93fd:
 translate schinese ep3_maya_continue_loop_89b3052b:
 
     # my "Yeah..."
-    my "对..."
+    my "对……"
 
 # game/update3.rpy:8327
 translate schinese ep3_maya_continue_loop_26aa0624:
@@ -21652,7 +21651,7 @@ translate schinese ep3_maya_continue_loop_3088f062:
 translate schinese ep3_maya_continue_loop_433a3893:
 
     # my "Ok..."
-    my "好的..."
+    my "好的……"
 
 # game/update3.rpy:8347
 translate schinese ep3_maya_continue_loop_8e75e20b:
@@ -21724,7 +21723,7 @@ translate schinese ep3_maya_continue_loop_3b5b942b:
 translate schinese ep3_maya_continue_loop_8d2f53d6:
 
     # my "...but thighjob was on the list, too."
-    my "...但大腿交配也在名单上。"
+    my "……但大腿交配也在名单上。"
 
 # game/update3.rpy:8366
 translate schinese ep3_maya_continue_loop_bb3db2f5:
@@ -21736,7 +21735,7 @@ translate schinese ep3_maya_continue_loop_bb3db2f5:
 translate schinese ep3_maya_continue_loop_239afcc8:
 
     # mc "Mmm...yes, I think that's it."
-    mc "嗯...是的，我想就是这样。"
+    mc "嗯……是的，我想就是这样。"
 
 # game/update3.rpy:8371
 translate schinese ep3_maya_continue_loop_3a821c7f:
@@ -21754,7 +21753,7 @@ translate schinese ep3_maya_continue_loop_8cf69e36:
 translate schinese ep3_maya_continue_loop_765a7dfa:
 
     # my "*{i}Moans{/i}* I like...it...too."
-    my "*{i}Moans{/i}* 我也喜欢……它。"
+    my "*{i}呻吟{/i}* 我也喜欢……它。"
 
 # game/update3.rpy:8377
 translate schinese ep3_maya_continue_loop_07f50026:
@@ -21778,7 +21777,7 @@ translate schinese ep3_maya_continue_loop_765711aa:
 translate schinese ep3_maya_continue_loop_8368a610:
 
     # my "Hi..."
-    my "你好..."
+    my "你好……"
 
 # game/update3.rpy:8386
 translate schinese ep3_maya_continue_loop_a15d334c:
@@ -21814,7 +21813,7 @@ translate schinese ep3_maya_continue_loop_70129747:
 translate schinese ep3_maya_continue_loop_e7f41033:
 
     # mc "Yeah... I'm getting pretty close."
-    mc "是的…我越来越接近了。"
+    mc "是的……我越来越接近了。"
 
 # game/update3.rpy:8397
 translate schinese ep3_maya_continue_loop_6089bc7d:
@@ -21850,7 +21849,7 @@ translate schinese ep3_maya_continue_loop_88527c73:
 translate schinese ep3_maya_continue_loop_9de00192:
 
     # my "Look into my eyes when you do it..."
-    my "当你这样做的时候看着我的眼睛..."
+    my "当你这样做的时候看着我的眼睛……"
 
 # game/update3.rpy:8410
 translate schinese ep3_maya_continue_loop_4f006e60:
@@ -21874,7 +21873,7 @@ translate schinese ep3_maya_continue_loop_335673ab:
 translate schinese ep3_maya_continue_loop_163f33c6:
 
     # my "Oh, wow! This is...!"
-    my "哦，哇！这是...！"
+    my "哦，哇！这是……！"
 
 # game/update3.rpy:8418
 translate schinese ep3_maya_continue_loop_36dc9cdf:
@@ -21892,7 +21891,7 @@ translate schinese ep3_maya_continue_loop_715525d2:
 translate schinese ep3_maya_continue_loop_0cf7f97d:
 
     # my "Thank you..."
-    my "谢谢..."
+    my "谢谢……"
 
 # game/update3.rpy:8424
 translate schinese ep3_maya_continue_loop_3869b1e5:
@@ -21946,7 +21945,7 @@ translate schinese ep3_maya_continue_loop_84415b71:
 translate schinese ep3_maya_continue_loop_14c77261:
 
     # my "After today..."
-    my "今天之后..."
+    my "今天之后……"
 
 # game/update3.rpy:8454
 translate schinese ep3_maya_continue_loop_222cea02:
@@ -21988,7 +21987,7 @@ translate schinese ep3_not_maya_label3_11455b53:
 translate schinese ep3_not_maya_label3_40fc0ecc:
 
     # my "No matter the tasks on that list..."
-    my "无论该列表上的任务是什么..."
+    my "无论该列表上的任务是什么……"
 
 # game/update3.rpy:8474
 translate schinese ep3_not_maya_label3_e787deb0:
@@ -22024,7 +22023,7 @@ translate schinese ep3_not_maya_label3_5d69ec28:
 translate schinese ep3_not_maya_label3_a7332130:
 
     # mc "So...that wasn't a happy visit from your dad, before?"
-    mc "那么...之前你爸爸的来访并不愉快？"
+    mc "那么……之前你爸爸的来访并不愉快？"
 
 # game/update3.rpy:8481
 translate schinese ep3_not_maya_label3_5d20c729:
@@ -22048,13 +22047,13 @@ translate schinese ep3_not_maya_label3_fc645303:
 translate schinese ep3_not_maya_label3_23414ed9:
 
     # my "All right..."
-    my "好的..."
+    my "好的……"
 
 # game/update3.rpy:8486
 translate schinese ep3_not_maya_label3_f833ce7c:
 
     # my "There's something I haven't told you..."
-    my "有件事我还没告诉你..."
+    my "有件事我还没告诉你……"
 
 # game/update3.rpy:8487
 translate schinese ep3_not_maya_label3_c5806f85:
@@ -22066,7 +22065,7 @@ translate schinese ep3_not_maya_label3_c5806f85:
 translate schinese ep3_not_maya_label3_9cec94fe:
 
     # my "I kind of tried telling you this before...even though I wasn't ever going to tell this to anyone here..."
-    my "我以前曾尝试过告诉你这一点...尽管我从来没有打算告诉过这里的任何人..."
+    my "我以前曾尝试过告诉你这一点……尽管我从来没有打算告诉过这里的任何人……"
 
 # game/update3.rpy:8489
 translate schinese ep3_not_maya_label3_9978523d:
@@ -22084,7 +22083,7 @@ translate schinese ep3_not_maya_label3_dc4eb819:
 translate schinese ep3_not_maya_label3_8df512d3:
 
     # my "...but thanks to Derek, and now even you, I've realized that I need it for an even bigger reason."
-    my "...但是感谢Derek，现在甚至是你，我意识到我需要它有一个更大的原因。"
+    my "……但是感谢Derek，现在甚至是你，我意识到我需要它有一个更大的原因。"
 
 # game/update3.rpy:8494
 translate schinese ep3_not_maya_label3_d0b00f0b:
@@ -22114,25 +22113,25 @@ translate schinese ep3_ending_label_4b5beeea:
 translate schinese ep3_ending_label_3f761cb7:
 
     # mc "{i}To keep you safe or secluded...{/i}"
-    mc "{i}保证您的安全或隐蔽...{/i}"
+    mc "{i}保证你的安全或隐蔽……{/i}"
 
 # game/update3.rpy:8508
 translate schinese ep3_ending_label_b53338f9:
 
     # mc "{i}...and to protect the things you value.{/i}"
-    mc "{i}...并保护您珍视的东西。{/i}"
+    mc "{i}……并保护你珍视的东西。{/i}"
 
 # game/update3.rpy:8509
 translate schinese ep3_ending_label_2f4e432f:
 
     # mc "{i}Protect you from whatever is on the other side.{/i}"
-    mc "{i}保护您免受另一边的任何伤害。{/i}"
+    mc "{i}保护你免受另一边的任何伤害。{/i}"
 
 # game/update3.rpy:8510
 translate schinese ep3_ending_label_fd248049:
 
     # mc "{i}Or worse...{/i}"
-    mc "{i}或更糟...{/i}"
+    mc "{i}或更糟……{/i}"
 
 # game/update3.rpy:8511
 translate schinese ep3_ending_label_e114f985:
@@ -22174,13 +22173,13 @@ translate schinese ep3_ending_label_23a3a48a:
 translate schinese ep3_ending_label_82bae284:
 
     # mc "{i}Because opening them...{/i}"
-    mc "{i}因为打开了...{/i}"
+    mc "{i}因为打开了……{/i}"
 
 # game/update3.rpy:8519
 translate schinese ep3_ending_label_060c6a4f:
 
     # qu "Yeah?"
-    qu "什么?"
+    qu "什么？"
 
 # game/update3.rpy:8520
 translate schinese ep3_ending_label_cbcba8e3:
@@ -22210,13 +22209,13 @@ translate schinese ep3_ending_label_f774a062:
 translate schinese ep3_ending_label_ada6c063:
 
     # mc "{i}...may change everything{/i}."
-    mc "{i}...可能会改变一切{/i}。"
+    mc "{i}……可能会改变一切{/i}。"
 
 # game/update3.rpy:8530
 translate schinese ep3_ending_label_c77897be:
 
     # my "Come in! Um..."
-    my "进来！嗯..."
+    my "进来！嗯……"
 
 # game/update3.rpy:8532
 translate schinese ep3_ending_label_f969ff7c:
@@ -22228,13 +22227,13 @@ translate schinese ep3_ending_label_f969ff7c:
 translate schinese ep3_ending_label_ec26118d:
 
     # my "This is my..."
-    my "这是我的..."
+    my "这是我的……"
 
 # game/update3.rpy:8534
 translate schinese ep3_ending_label_7a707b0e:
 
     # my "...girlfriend..."
-    my "...女朋友..."
+    my "……女朋友……"
 
 # game/update3.rpy:8536
 translate schinese ep3_ending_label_e25a68cb:
@@ -22246,19 +22245,19 @@ translate schinese ep3_ending_label_e25a68cb:
 translate schinese ep3_choosePathLoop_81b6ff20:
 
     # mc "Hi... Can I stay with you?"
-    mc "嗨...我可以和你一起住吗？"
+    mc "嗨……我可以和你一起住吗？"
 
 # game/update3.rpy:8574
 translate schinese ep3_choosePathLoop_81b6ff20_1:
 
     # mc "Hi... Can I stay with you?"
-    mc "嗨...我可以和你一起住吗？"
+    mc "嗨……我可以和你一起住吗？"
 
 # game/update3.rpy:8581
 translate schinese ep3_choosePathLoop_81b6ff20_2:
 
     # mc "Hi... Can I stay with you?"
-    mc "嗨...我可以和你一起住吗？"
+    mc "嗨……我可以和你一起住吗？"
 
 translate schinese strings:
 

@@ -500,7 +500,7 @@ translate schinese strings:
 
     # renpy/common/00preferences.rpy:303
     old "joystick..."
-    new "手柄…"
+    new "手柄……"
 
     # renpy/common/00preferences.rpy:310
     old "skip"

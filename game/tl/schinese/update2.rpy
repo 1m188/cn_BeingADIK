@@ -274,7 +274,7 @@ translate schinese startUpdate2b_a313d2ff:
 translate schinese startUpdate2b_2e667bca:
 
     # qu "With just a single prick..."
-    qu "只要轻轻一扎……"
+    qu "只需要轻轻一扎……"
 
 # game/update2.rpy:146
 translate schinese startUpdate2b_46442fc6:
@@ -5364,13 +5364,13 @@ translate schinese ep2_fri_party_label_fb4bd02c:
 translate schinese ep2_fri_party_label_aab97cd4:
 
     # tm "Hell yes! There's no way we're giving up partying with the HOTs..."
-    tm "当然！我们不可能因为有几个该死的混蛋把东西扔进窗户……"
+    tm "当然！我们才不会放弃和 HOT 一起派对……"
 
 # game/update2.rpy:1934
 translate schinese ep2_fri_party_label_04cf0e2e:
 
     # tm "...just because some fucking asshole ticklers are thrown through our windows."
-    tm "……就放弃和 HOT 一起派对。"
+    tm "……就因为几个该死的混蛋把挠痒玩具扔进了我们的窗户。"
 
 # game/update2.rpy:1936
 translate schinese ep2_fri_party_label_9e443f2b:
@@ -5574,7 +5574,7 @@ translate schinese ep2_fri_party_shots_label_87eb34a3:
 translate schinese ep2_fri_party_shots_label_51683d2d:
 
     # "{i}\nIn the shot mini-game you must navigate a maze using your mouse cursor.{i}"
-    "{i}\n在喝酒小游戏中，你必须用鼠标光标穿过迷宫。{/i}"
+    "{i}\n在喝酒小游戏中，你必须用鼠标光标穿过迷宫。{i}"
 
 # game/update2.rpy:2011
 translate schinese ep2_fri_party_shots_label_ec3e661b:
@@ -8831,7 +8831,7 @@ translate schinese ep2_sat_store_label_ee106b37:
 translate schinese ep2_sat_store_label_b1553fbb:
 
     # st "Leave me...*{i}sobs{i}*...alone..."
-    st "离我远点……*{i}呜咽{/i}*……让我一个人待着……"
+    st "离我远点……*{i}呜咽{i}*……让我一个人待着……"
 
 # game/update2.rpy:3303
 translate schinese ep2_sat_store_label_74c4a606:
@@ -11562,7 +11562,7 @@ translate schinese ep2_jade_lewd_label_b36b00ff:
 translate schinese ep2_jade_lewd_label_cd0cd08d:
 
     # ja "*{i}Mmphf{i}* You taste so...good..."
-    ja "*{i}嗯呜{/i}* 你尝起来……真好……"
+    ja "*{i}嗯呜{i}* 你尝起来……真好……"
 
 # game/update2.rpy:4213
 translate schinese ep2_jade_lewd_label_df444337:
@@ -11574,7 +11574,7 @@ translate schinese ep2_jade_lewd_label_df444337:
 translate schinese ep2_jade_lewd_label_7e4a9bd9:
 
     # ja "*{i}Mmphf{i}*"
-    ja "*{i}嗯呜{/i}*"
+    ja "*{i}嗯呜{i}*"
 
 # game/update2.rpy:4216
 translate schinese ep2_jade_lewd_label_b23eb262:
@@ -11616,7 +11616,7 @@ translate schinese ep2_jade_lewd_label_a4845978:
 translate schinese ep2_jade_lewd_label_423cc68e:
 
     # ja "*{i}Mmphf{i}* God...it's...just...too...big!"
-    ja "*{i}嗯呜{/i}* 天啊……太……太……大了！"
+    ja "*{i}嗯呜{i}* 天啊……太……太……大了！"
 
 # game/update2.rpy:4234
 translate schinese ep2_jade_lewd_label_0487cde0:
