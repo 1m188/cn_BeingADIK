@@ -31,9 +31,9 @@ game/tl/schinese/
 ├── common.rpy           # Ren'Py 引擎内置界面文本骨架
 ├── screens.rpy          # 游戏界面文本骨架
 ├── options.rpy          # 游戏选项相关文本骨架
-├── script.rpy           # 主线对话骨架
-├── header.rpy
-├── update2/3/4.rpy      # 各章节重制内容对话骨架
+├── script.rpy           # 主线对话骨架（EP1）
+├── header.rpy           # 开场免责声明对话
+├── update2/3/4.rpy      # EP2–EP4 章节对话骨架
 ├── scripts/             # 分集、自由探索、手机系统、小游戏等对话骨架
 └── fonts/               # 思源黑体 CN（Regular + Bold）
 ```
@@ -76,8 +76,8 @@ game/tl/schinese/
 
 - Ren'Py 的变量插值与文本标签必须原样保留，例如 `[mc]`、`{w}`、`{color=#ff7ffa}`、
   `{size=40}`、`{font=candara.ttf}` 等；
-- **保留原文的类别**：角色人名、金额、数字、字体名、符号与插值占位符（见上表）。
-- 穿越多个文件的角色名必须全项目统一——本项目统一保留拉丁原名。
+- **保留原文的类别**：角色人名、金额、数字、字体名、符号与插值占位符（见上表）；
+- 穿越多个文件的角色名必须全项目统一——本项目统一保留拉丁原名；
 - 手机系统（短信、Swyper、Rooster）文本位于 `scripts/phone/` 下，同样走 tl 框架；
 - 主菜单底部大按钮（NEW GAME 等）是**图片按钮**，英文烤在 PNG 里，文本补丁不覆盖，
   需要单独做图像汉化。
@@ -95,11 +95,10 @@ game/tl/schinese/
 - [ ] 手机系统（phone/）样式微调（文本已译，个别界面宽度待适配）
 - [ ] 图片内嵌文本处理（主菜单按钮、GUI 图等——英文烤在 PNG 里，需单独做图）
 - [ ] Season 2 DLC（EP5-8）适配（需先在 Steam 安装该 DLC）
-- [ ] 打包发布
 
 ## 授权说明
 
 - 补丁代码随本项目自由分发；字体为
   [思源黑体（Source Han Sans）](https://github.com/adobe-fonts/source-han-sans)，
   SIL Open Font License 1.1。
-- 请支持正版：[Steam: Being a DIK - Season 1](https://store.steampowered.com/app/1126320/)。
+- 请支持正版：[Steam 上的《Being a DIK》](https://store.steampowered.com/app/1126320/)。
